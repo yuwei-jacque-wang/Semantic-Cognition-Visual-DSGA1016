@@ -7,4 +7,4 @@ Yuwei Wang, Hengjiali Xu, Yang Gao, Siyu Shen
 ```
 In addition to collaborators, we would like to sincerely thank our professor [Brendan Lake](https://cims.nyu.edu/~brenden/) and [Todd Gureckis](http://gureckislab.org) for valuable advice and guidance.
 
-The complete project report can be found [here](https://github.com/yuwei-jacque-wang/Literature-Style-Transfer-DSGA1012/blob/master/Final%20Report.pdf)
+The complete project report can be found [here](https://github.com/yuwei-jacque-wang/Semantic-Cognition-Visual-DSGA1016/blob/main/Project%20Report.pdf)
