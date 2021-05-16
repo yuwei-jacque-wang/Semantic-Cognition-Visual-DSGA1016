@@ -1,0 +1,1479 @@
+concept,feature
+Tyrannosaurus Rex,need-Water
+zebra,need-Water
+leopard,need-Water
+Persian cat,need-Water
+Timber wolf,need-Water
+Carp,need-Water
+Viper,need-Water
+Turbot,need-Water
+goose,need-Water
+moth,need-Water
+African elephant,need-Water
+Viper,need-Water
+dove,need-Water
+Cock,need-Water
+Dog,need-Water
+Siberian Husky,need-Water
+Seagull,need-Water
+Sea snake,need-Water
+Otarriinae,need-Water
+Jellyfish,need-Water
+panther,need-Water
+black swan,need-Water
+Monkey,need-Water
+monkey,need-Water
+fox,need-Water
+Raccoons,need-Water
+cattle,need-Water
+Crucian carp,need-Water
+Rat,need-Water
+leopard,need-Water
+whale,need-Water
+Koala,need-Water
+Guppy,need-Water
+Dinosaur,need-Water
+The Dachshund,need-Water
+wolf,need-Water
+tiger,need-Water
+mouse,need-Water
+carp,need-Water
+Cheetah,need-Water
+hound,need-Water
+Totoro,need-Water
+mule,need-Water
+Snail,need-Water
+Leech,need-Water
+Python,need-Water
+Yak,need-Water
+Elk,need-Water
+The sperm whale,need-Water
+Hen,need-Water
+Ewes,need-Water
+Oysters,need-Water
+cattle,need-Water
+penguin,need-Water
+Squab,need-Water
+snake,need-Water
+Oysters,need-Water
+lion,need-Water
+rat,need-Water
+Jellyfish,need-Water
+Leech,need-Water
+Chow Chow,need-Water
+Swan,need-Water
+Vulture,need-Water
+rabbit,need-Water
+Rabbit,need-Water
+ostrich,need-Water
+snail,need-Water
+lizard,need-Water
+cricket,need-Water
+chimpanzee,need-Water
+panda,need-Water
+duck,need-Water
+mole,need-Water
+swallow,need-Water
+Alpaca,need-Water
+pheasant,need-Water
+hare,need-Water
+Bungarus multicinctus,need-Water
+fish,need-Water
+grasshopper,need-Water
+Robins,need-Water
+spider,need-Water
+moth,need-Water
+Carp,is-Food
+Turbot,is-Food
+goose,is-Food
+dove,is-Food
+Cock,is-Food
+Dog,is-Food
+Sea snake,is-Food
+Jellyfish,is-Food
+cattle,is-Food
+Crucian carp,is-Food
+Guppy,is-Food
+carp,is-Food
+mule,is-Food
+Snail,is-Food
+Yak,is-Food
+Hen,is-Food
+Ewes,is-Food
+Oysters,is-Food
+cattle,is-Food
+Squab,is-Food
+Oysters,is-Food
+rabbit,is-Food
+Rabbit,is-Food
+snail,is-Food
+duck,is-Food
+Alpaca,is-Food
+pheasant,is-Food
+hare,is-Food
+fish,is-Food
+grasshopper,is-Food
+Tyrannosaurus Rex,need-Air
+zebra,need-Air
+leopard,need-Air
+Persian cat,need-Air
+Timber wolf,need-Air
+Carp,need-Air
+Turbot,need-Air
+goose,need-Air
+moth,need-Air
+African elephant,need-Air
+dove,need-Air
+Cock,need-Air
+Dog,need-Air
+Seagull,need-Air
+Sea snake,need-Air
+Otarriinae,need-Air
+panther,need-Air
+black swan,need-Air
+Monkey,need-Air
+fox,need-Air
+Raccoons,need-Air
+Crucian carp,need-Air
+leopard,need-Air
+Koala,need-Air
+Dinosaur,need-Air
+The Dachshund,need-Air
+wolf,need-Air
+tiger,need-Air
+Cheetah,need-Air
+hound,need-Air
+Totoro,need-Air
+mule,need-Air
+Leech,need-Air
+Python,need-Air
+Yak,need-Air
+Elk,need-Air
+Hen,need-Air
+Ewes,need-Air
+penguin,need-Air
+Squab,need-Air
+snake,need-Air
+lion,need-Air
+rat,need-Air
+Leech,need-Air
+Chow Chow,need-Air
+Vulture,need-Air
+Rabbit,need-Air
+ostrich,need-Air
+snail,need-Air
+lizard,need-Air
+cricket,need-Air
+chimpanzee,need-Air
+panda,need-Air
+duck,need-Air
+mole,need-Air
+swallow,need-Air
+Alpaca,need-Air
+pheasant,need-Air
+hare,need-Air
+grasshopper,need-Air
+Robins,need-Air
+spider,need-Air
+Tyrannosaurus Rex,is-Animals
+zebra,is-Animals
+leopard,is-Animals
+Persian cat,is-Animals
+Timber wolf,is-Animals
+Carp,is-Animals
+Viper,is-Animals
+Turbot,is-Animals
+goose,is-Animals
+moth,is-Animals
+African elephant,is-Animals
+Viper,is-Animals
+dove,is-Animals
+Cock,is-Animals
+Dog,is-Animals
+Siberian Husky,is-Animals
+Seagull,is-Animals
+Sea snake,is-Animals
+Otarriinae,is-Animals
+Jellyfish,is-Animals
+panther,is-Animals
+black swan,is-Animals
+Monkey,is-Animals
+monkey,is-Animals
+fox,is-Animals
+Raccoons,is-Animals
+cattle,is-Animals
+Crucian carp,is-Animals
+Rat,is-Animals
+leopard,is-Animals
+whale,is-Animals
+Koala,is-Animals
+Guppy,is-Animals
+Dinosaur,is-Animals
+The Dachshund,is-Animals
+wolf,is-Animals
+tiger,is-Animals
+mouse,is-Animals
+carp,is-Animals
+Cheetah,is-Animals
+hound,is-Animals
+Totoro,is-Animals
+mule,is-Animals
+Snail,is-Animals
+Leech,is-Animals
+Python,is-Animals
+Yak,is-Animals
+Elk,is-Animals
+The sperm whale,is-Animals
+Hen,is-Animals
+Ewes,is-Animals
+Oysters,is-Animals
+cattle,is-Animals
+penguin,is-Animals
+Squab,is-Animals
+snake,is-Animals
+Oysters,is-Animals
+lion,is-Animals
+rat,is-Animals
+Jellyfish,is-Animals
+Leech,is-Animals
+Chow Chow,is-Animals
+Swan,is-Animals
+Vulture,is-Animals
+rabbit,is-Animals
+Rabbit,is-Animals
+ostrich,is-Animals
+snail,is-Animals
+lizard,is-Animals
+cricket,is-Animals
+chimpanzee,is-Animals
+panda,is-Animals
+duck,is-Animals
+mole,is-Animals
+swallow,is-Animals
+Alpaca,is-Animals
+pheasant,is-Animals
+hare,is-Animals
+Bungarus multicinctus,is-Animals
+fish,is-Animals
+grasshopper,is-Animals
+Robins,is-Animals
+spider,is-Animals
+moth,is-Animals
+Tyrannosaurus Rex,need-Food
+zebra,need-Food
+leopard,need-Food
+Persian cat,need-Food
+Timber wolf,need-Food
+Carp,need-Food
+Viper,need-Food
+Turbot,need-Food
+goose,need-Food
+moth,need-Food
+African elephant,need-Food
+Viper,need-Food
+dove,need-Food
+Cock,need-Food
+Dog,need-Food
+Siberian Husky,need-Food
+Seagull,need-Food
+Sea snake,need-Food
+Otarriinae,need-Food
+Jellyfish,need-Food
+panther,need-Food
+black swan,need-Food
+Monkey,need-Food
+monkey,need-Food
+fox,need-Food
+Raccoons,need-Food
+cattle,need-Food
+Crucian carp,need-Food
+Rat,need-Food
+leopard,need-Food
+whale,need-Food
+Koala,need-Food
+Guppy,need-Food
+Dinosaur,need-Food
+The Dachshund,need-Food
+wolf,need-Food
+tiger,need-Food
+mouse,need-Food
+carp,need-Food
+Cheetah,need-Food
+hound,need-Food
+Totoro,need-Food
+mule,need-Food
+Snail,need-Food
+Leech,need-Food
+Python,need-Food
+Yak,need-Food
+Elk,need-Food
+The sperm whale,need-Food
+Hen,need-Food
+Ewes,need-Food
+Oysters,need-Food
+cattle,need-Food
+penguin,need-Food
+Squab,need-Food
+snake,need-Food
+lion,need-Food
+rat,need-Food
+Jellyfish,need-Food
+Chow Chow,need-Food
+Swan,need-Food
+Vulture,need-Food
+rabbit,need-Food
+Rabbit,need-Food
+ostrich,need-Food
+snail,need-Food
+lizard,need-Food
+cricket,need-Food
+chimpanzee,need-Food
+panda,need-Food
+duck,need-Food
+mole,need-Food
+swallow,need-Food
+Alpaca,need-Food
+pheasant,need-Food
+hare,need-Food
+Bungarus multicinctus,need-Food
+fish,need-Food
+grasshopper,need-Food
+Robins,need-Food
+spider,need-Food
+moth,need-Food
+Tyrannosaurus Rex,need-Sunlight
+zebra,need-Sunlight
+lizard,need-Sunlight
+cricket,need-Sunlight
+Robins,need-Sunlight
+mouse,is-tools
+Oysters,can-Buy
+zebra,has-Eyes
+leopard,has-Eyes
+Persian cat,has-Eyes
+Timber wolf,has-Eyes
+Carp,has-Eyes
+Viper,has-Eyes
+Turbot,has-Eyes
+goose,has-Eyes
+moth,has-Eyes
+Viper,has-Eyes
+Cock,has-Eyes
+Dog,has-Eyes
+Siberian Husky,has-Eyes
+Seagull,has-Eyes
+Sea snake,has-Eyes
+Otarriinae,has-Eyes
+panther,has-Eyes
+black swan,has-Eyes
+Monkey,has-Eyes
+monkey,has-Eyes
+fox,has-Eyes
+Raccoons,has-Eyes
+Crucian carp,has-Eyes
+Rat,has-Eyes
+whale,has-Eyes
+Koala,has-Eyes
+Guppy,has-Eyes
+Dinosaur,has-Eyes
+The Dachshund,has-Eyes
+wolf,has-Eyes
+tiger,has-Eyes
+mouse,has-Eyes
+carp,has-Eyes
+Cheetah,has-Eyes
+Totoro,has-Eyes
+mule,has-Eyes
+Python,has-Eyes
+Yak,has-Eyes
+Elk,has-Eyes
+The sperm whale,has-Eyes
+Hen,has-Eyes
+Ewes,has-Eyes
+cattle,has-Eyes
+penguin,has-Eyes
+snake,has-Eyes
+lion,has-Eyes
+rat,has-Eyes
+Chow Chow,has-Eyes
+Swan,has-Eyes
+Vulture,has-Eyes
+rabbit,has-Eyes
+Rabbit,has-Eyes
+ostrich,has-Eyes
+lizard,has-Eyes
+cricket,has-Eyes
+chimpanzee,has-Eyes
+panda,has-Eyes
+mole,has-Eyes
+swallow,has-Eyes
+Alpaca,has-Eyes
+pheasant,has-Eyes
+hare,has-Eyes
+Bungarus multicinctus,has-Eyes
+fish,has-Eyes
+grasshopper,has-Eyes
+Robins,has-Eyes
+spider,has-Eyes
+Guppy,has-many colors
+mouse,need-electricity
+zebra,is-white
+Persian cat,is-white
+goose,is-white
+dove,is-white
+Seagull,is-white
+Ewes,is-white
+penguin,is-white
+Swan,is-white
+rabbit,is-white
+Rabbit,is-white
+panda,is-white
+duck,is-white
+Alpaca,is-white
+Turbot,can-View
+African elephant,can-View
+black swan,can-View
+Koala,can-View
+Guppy,can-View
+carp,can-View
+Jellyfish,can-View
+Swan,can-View
+ostrich,can-View
+lizard,is-Green
+cricket,is-Green
+fish,can-View
+grasshopper,is-Green
+leopard,has-Skin
+wolf,has-Skin
+tiger,has-Skin
+mouse,has-Skin
+Cheetah,has-Skin
+Python,has-Skin
+snake,has-skin
+rabbit,has-Skin
+lizard,has-Skin
+Tyrannosaurus Rex,has-mouth
+zebra,has-mouth
+leopard,has-mouth
+Timber wolf,has-mouth
+Carp,has-mouth
+Turbot,has-mouth
+goose,has-mouth
+African elephant,has-mouth
+dove,has-mouth
+Cock,has-mouth
+Dog,has-mouth
+Siberian Husky,has-mouth
+Seagull,has-mouth
+Sea snake,has-mouth
+panther,has-mouth
+black swan,has-mouth
+Monkey,has-mouth
+fox,has-mouth
+Raccoons,has-mouth
+whale,has-mouth
+Koala,has-mouth
+Dinosaur,has-mouth
+The Dachshund,has-mouth
+tiger,has-mouth
+mouse,has-mouth
+Cheetah,has-mouth
+hound,has-mouth
+mule,has-mouth
+Leech,has-mouth
+Python,has-mouth
+Elk,has-mouth
+Hen,has-mouth
+Ewes,has-mouth
+cattle,has-mouth
+penguin,has-mouth
+Squab,has-mouth
+snake,has-mouth
+lion,has-mouth
+rat,has-mouth
+Chow Chow,has-mouth
+Swan,has-mouth
+Vulture,has-mouth
+ostrich,has-mouth
+lizard,has-mouth
+cricket,has-mouth
+chimpanzee,has-mouth
+panda,has-mouth
+duck,has-mouth
+mole,has-mouth
+swallow,has-mouth
+Alpaca,has-mouth
+pheasant,has-mouth
+hare,has-mouth
+fish,has-mouth
+Robins,has-mouth
+Tyrannosaurus Rex,has-tail
+zebra,has-tail
+leopard,has-tail
+Persian cat,has-tail
+Timber wolf,has-tail
+Carp,has-tail
+Viper,has-tail
+Turbot,has-tail
+African elephant,has-tail
+Viper,has-tail
+Cock,has-tail
+Dog,has-tail
+Siberian Husky,has-tail
+Sea snake,has-tail
+Otarriinae,has-tail
+panther,has-tail
+Monkey,has-tail
+monkey,has-tail
+fox,has-tail
+Raccoons,has-tail
+cattle,has-tail
+Crucian carp,has-tail
+Rat,has-tail
+leopard,has-tail
+whale,has-tail
+Guppy,has-tail
+Dinosaur,has-tail
+The Dachshund,has-tail
+wolf,has-tail
+tiger,has-tail
+mouse,has-tail
+carp,has-tail
+Cheetah,has-tail
+hound,has-tail
+Totoro,has-tail
+mule,has-tail
+Python,has-tail
+Yak,has-tail
+The sperm whale,has-tail
+cattle,has-tail
+snake,has-tail
+lion,has-tail
+rat,has-tail
+Chow Chow,has-tail
+rabbit,has-tail
+Rabbit,has-tail
+lizard,has-tail
+chimpanzee,has-tail
+mole,has-tail
+swallow,has-tail
+Alpaca,has-tail
+hare,has-tail
+Bungarus multicinctus,has-tail
+fish,has-tail
+zebra,need-Protection
+leopard,need-Protection
+African elephant,need-Protection
+Otarriinae,need-Protection
+black swan,need-Protection
+Monkey,need-Protection
+monkey,need-Protection
+Raccoons,need-Protection
+whale,need-Protection
+Koala,need-Protection
+wolf,need-Protection
+tiger,need-Protection
+Cheetah,need-Protection
+Totoro,need-Protection
+Elk,need-Protection
+The sperm whale,need-Protection
+penguin,need-Protection
+lion,need-Protection
+Swan,need-Protection
+lizard,need-Protection
+panda,need-Protection
+Robins,need-Protection
+zebra,has-Hair
+leopard,has-Hair
+Persian cat,has-Hair
+Timber wolf,has-Hair
+Dog,has-Hair
+Siberian Husky,has-Hair
+Otarriinae,has-Hair
+panther,has-Hair
+Monkey,has-Hair
+monkey,has-Hair
+fox,has-Hair
+Raccoons,has-Hair
+Rat,has-Hair
+leopard,has-Hair
+Koala,has-Hair
+The Dachshund,has-Hair
+wolf,has-Hair
+tiger,has-Hair
+mouse,has-Hair
+Cheetah,has-Hair
+hound,has-Hair
+Totoro,has-Hair
+Yak,has-Hair
+Ewes,has-Hair
+penguin,has-Hair
+lion,has-Hair
+Chow Chow,has-Hair
+rabbit,has-Hair
+Rabbit,has-Hair
+chimpanzee,has-Hair
+panda,has-Hair
+mole,has-Hair
+Alpaca,has-Hair
+hare,has-Hair
+zebra,need-to sleep
+Persian cat,need-to sleep
+Timber wolf,need-to sleep
+goose,need-to sleep
+African elephant,need-to sleep
+dove,need-to sleep
+Cock,need-to sleep
+Dog,need-to sleep
+Siberian Husky,need-to sleep
+Seagull,need-to sleep
+panther,need-to sleep
+Monkey,need-to sleep
+fox,need-to sleep
+Raccoons,need-to sleep
+Rat,need-to sleep
+whale,need-to sleep
+Koala,need-to sleep
+The Dachshund,need-to sleep
+wolf,need-to sleep
+tiger,need-to sleep
+mouse,need-to sleep
+Cheetah,need-to sleep
+hound,need-to sleep
+Totoro,need-to sleep
+mule,need-to sleep
+Python,need-to sleep
+Yak,need-to sleep
+Elk,need-to sleep
+The sperm whale,need-to sleep
+Hen,need-to sleep
+Ewes,need-to sleep
+cattle,need-to sleep
+lion,need-to sleep
+rat,need-to sleep
+Chow Chow,need-to sleep
+Swan,need-to sleep
+Vulture,need-to sleep
+rabbit,need-to sleep
+Rabbit,need-to sleep
+lizard,need-to sleep
+chimpanzee,need-to sleep
+duck,need-to sleep
+mole,need-to sleep
+swallow,need-to sleep
+Alpaca,need-to sleep
+pheasant,need-to sleep
+hare,need-to sleep
+Bungarus multicinctus,need-to sleep
+grasshopper,need-to sleep
+Tyrannosaurus Rex,has-limbs
+zebra,has-limbs
+leopard,has-limbs
+Persian cat,has-limbs
+Timber wolf,has-limbs
+African elephant,has-limbs
+Dog,has-limbs
+Siberian Husky,has-limbs
+panther,has-limbs
+Monkey,has-limbs
+fox,has-limbs
+Raccoons,has-limbs
+cattle,has-limbs
+Rat,has-limbs
+leopard,has-limbs
+Koala,has-limbs
+Dinosaur,has-limbs
+The Dachshund,has-limbs
+wolf,has-limbs
+tiger,has-limbs
+mouse,has-limbs
+Cheetah,has-limbs
+hound,has-limbs
+mule,has-limbs
+Yak,has-limbs
+Elk,has-limbs
+Ewes,has-limbs
+cattle,has-limbs
+lion,has-limbs
+Chow Chow,has-limbs
+lizard,has-limbs
+cricket,has-limbs
+chimpanzee,has-limbs
+panda,has-limbs
+Alpaca,has-limbs
+hare,has-limbs
+cattle,is-yellow
+moth,can-fly
+dove,can-fly
+Seagull,can-fly
+black swan,can-fly
+Leech,can-fly
+Squab,can-fly
+Swan,can-fly
+Vulture,can-fly
+swallow,can-fly
+pheasant,can-fly
+grasshopper,can-fly
+Robins,can-fly
+Carp,is-long
+Sea snake,is-long
+Python,is-long
+snake,is-long
+Bungarus multicinctus,is-long
+goose,has-Wings
+moth,has-Wings
+moth,is-Insects
+moth,is-Insects
+dove,has-Wings
+Cock,has-Wings
+Seagull,has-Wings
+black swan,has-Wings
+Leech,is-Insects
+Leech,has-Wings
+Leech,is-Insects
+Hen,has-Wings
+penguin,has-Wings
+Squab,has-Wings
+Leech,is-Insects
+Swan,has-Wings
+Vulture,has-Wings
+ostrich,has-Wings
+cricket,is-Insects
+cricket,is-Insects
+cricket,has-Wings
+duck,has-Wings
+swallow,has-Wings
+pheasant,has-Wings
+grasshopper,is-Insects
+grasshopper,is-Insects
+grasshopper,has-Wings
+Robins,has-Wings
+spider,is-Insects
+spider,is-Insects
+moth,is-Insects
+Tyrannosaurus Rex,is-Meat
+zebra,is-Black
+leopard,is-Meat
+Timber wolf,is-Meat
+panther,is-Black
+black swan,is-Black
+fox,is-Meat
+leopard,is-Meat
+Dinosaur,is-Meat
+wolf,is-Meat
+tiger,is-Meat
+hound,is-Meat
+Python,is-Meat
+penguin,is-Black
+lion,is-Meat
+Chow Chow,is-Meat
+Swan,is-Black
+Vulture,is-Meat
+chimpanzee,is-Black
+panda,is-Black
+swallow,is-Black
+Carp,can-swim
+Turbot,can-swim
+goose,can-swim
+Sea snake,can-swim
+Otarriinae,can-swim
+Jellyfish,can-swim
+black swan,can-swim
+Crucian carp,can-swim
+whale,can-swim
+Guppy,can-swim
+carp,can-swim
+The sperm whale,can-swim
+penguin,can-swim
+Jellyfish,can-swim
+Swan,can-swim
+duck,can-swim
+fish,can-swim
+Snail,has-shell
+Oysters,has-shell
+Oysters,has-shell
+snail,has-shell
+Siberian Husky,can-Entertain
+Tyrannosaurus Rex,is-Big
+Tyrannosaurus Rex,can-Hunt
+leopard,can-Hunt
+Timber wolf,can-Hunt
+Carp,is-Haili
+Viper,can-Hunt
+Turbot,is-Haili
+African elephant,is-Big
+Viper,can-Hunt
+Seagull,can-Hunt
+Sea snake,is-Haili
+Otarriinae,can-Hunt
+Otarriinae,is-Haili
+Jellyfish,is-Haili
+panther,can-Hunt
+fox,can-Hunt
+leopard,can-Hunt
+whale,is-Haili
+whale,is-Big
+whale,can-Hunt
+Dinosaur,is-Big
+Dinosaur,can-Hunt
+wolf,can-Hunt
+tiger,can-Hunt
+Cheetah,can-Hunt
+hound,can-Hunt
+Snail,is-Haili
+Python,can-Hunt
+Python,is-Big
+The sperm whale,is-Big
+The sperm whale,is-Haili
+Oysters,is-Haili
+penguin,can-Hunt
+Oysters,is-Haili
+lion,can-Hunt
+mouse,has-wheel
+Jellyfish,is-Haili
+Vulture,can-Hunt
+ostrich,is-Big
+lizard,can-Hunt
+mole,can-Hunt
+Bungarus multicinctus,can-Hunt
+spider,can-Hunt
+Oysters,is-Soft
+Jellyfish,is-Soft
+Leech,is-Soft
+snail,is-Soft
+Tyrannosaurus Rex,has-teeth
+leopard,has-teeth
+Timber wolf,has-teeth
+Viper,has-teeth
+Viper,has-teeth
+Dog,has-many kinds
+Dog,has-teeth
+Siberian Husky,has-teeth
+Otarriinae,has-teeth
+panther,has-teeth
+fox,has-teeth
+Rat,has-teeth
+leopard,has-teeth
+whale,has-teeth
+Dinosaur,has-teeth
+wolf,has-teeth
+wolf,has-many kinds
+tiger,has-teeth
+mouse,has-teeth
+Cheetah,has-teeth
+hound,has-teeth
+Python,has-teeth
+The sperm whale,has-teeth
+snake,has-teeth
+lion,has-teeth
+rat,has-many kinds
+lizard,has-many kinds
+mole,has-teeth
+Bungarus multicinctus,has-teeth
+fish,has-many kinds
+zebra,can-Run
+zebra,is-Mammals
+leopard,can-Run
+leopard,is-Mammals
+Timber wolf,can-Run
+African elephant,is-Mammals
+Dog,can-Run
+Otarriinae,is-Mammals
+panther,can-Run
+panther,is-Mammals
+Monkey,is-Mammals
+monkey,is-Mammals
+Raccoons,can-Run
+Raccoons,is-Mammals
+leopard,can-Run
+whale,is-Mammals
+Dinosaur,can-Run
+The Dachshund,can-Run
+wolf,can-Run
+wolf,is-Mammals
+tiger,can-Run
+tiger,is-Mammals
+mouse,is-Mammals
+Cheetah,can-Run
+Cheetah,is-Mammals
+hound,can-Run
+hound,is-Mammals
+Snail,has-Meat
+Yak,is-Mammals
+Elk,can-Run
+Elk,is-Mammals
+The sperm whale,is-Mammals
+Oysters,has-Meat
+cattle,is-Mammals
+Squab,has-Meat
+Oysters,has-Meat
+lion,can-Run
+lion,is-Mammals
+Leech,is-Drugs
+rabbit,can-Run
+Rabbit,can-Run
+ostrich,can-Run
+chimpanzee,is-Mammals
+panda,is-Mammals
+mole,is-Mammals
+Alpaca,can-Run
+Alpaca,is-Mammals
+pheasant,can-Run
+hare,can-Run
+goose,has-Feathers
+dove,has-Feathers
+Cock,has-Feathers
+Seagull,has-Feathers
+black swan,has-Feathers
+Hen,has-Feathers
+Squab,has-Feathers
+Swan,has-Feathers
+Vulture,has-Feathers
+ostrich,has-Feathers
+duck,has-Feathers
+swallow,has-Feathers
+pheasant,has-Feathers
+Robins,has-Feathers
+Tyrannosaurus Rex,has-Claws
+Persian cat,has-Claws
+dove,has-Claws
+Cock,has-Claws
+Seagull,has-Claws
+Koala,has-Claws
+wolf,has-Claws
+Cheetah,has-Claws
+Hen,has-Claws
+Squab,has-Claws
+lion,has-Claws
+Vulture,has-Claws
+lizard,has-Claws
+mole,has-Claws
+swallow,has-Claws
+pheasant,has-Claws
+Robins,has-Claws
+Persian cat,need-Feed
+Turbot,need-Feed
+goose,need-Feed
+dove,need-Feed
+Cock,need-Feed
+Siberian Husky,need-Feed
+cattle,need-Feed
+Guppy,need-Feed
+mouse,is-small
+carp,need-Feed
+Hen,need-Feed
+Squab,need-Feed
+Chow Chow,need-Feed
+rabbit,need-Feed
+Rabbit,need-Feed
+duck,need-Feed
+Robins,is-small
+moth,is-small
+zebra,has-legs
+Timber wolf,has-legs
+Dog,has-legs
+Siberian Husky,has-legs
+panther,has-legs
+The Dachshund,has-legs
+hound,has-legs
+mule,has-legs
+Yak,has-legs
+Hen,has-legs
+ostrich,has-legs
+lizard,has-legs
+cricket,has-legs
+hare,has-legs
+grasshopper,has-legs
+spider,has-legs
+dove,is-Birds
+Seagull,is-Birds
+penguin,is-Birds
+Squab,is-Birds
+Swan,is-Birds
+Vulture,is-Birds
+ostrich,is-Birds
+cricket,can-Voice
+swallow,is-Birds
+Robins,is-Birds
+zebra,has-Ears
+leopard,has-Ears
+African elephant,has-Ears
+Dog,has-Ears
+Siberian Husky,has-Ears
+Raccoons,has-Ears
+Koala,has-Ears
+The Dachshund,has-Ears
+tiger,has-Ears
+mouse,has-Ears
+hound,has-Ears
+Totoro,has-Ears
+mule,has-Ears
+Elk,has-Ears
+Ewes,has-Ears
+cattle,has-Ears
+Chow Chow,has-Ears
+rabbit,has-Ears
+Rabbit,has-Ears
+panda,has-Ears
+Alpaca,has-Ears
+hare,has-Ears
+Carp,is-Fish
+Turbot,is-Fish
+Viper,can-Crawl
+Jellyfish,is-transparent
+Crucian carp,is-Fish
+whale,is-Fish
+Guppy,is-Fish
+carp,is-Fish
+Python,can-Crawl
+The sperm whale,is-Fish
+snake,can-Crawl
+Jellyfish,is-transparent
+snail,can-Crawl
+lizard,can-Crawl
+Bungarus multicinctus,can-Crawl
+spider,can-Crawl
+zebra,need-grass
+cattle,need-grass
+Yak,need-grass
+Elk,need-grass
+Ewes,need-grass
+cattle,need-grass
+rabbit,need-grass
+Rabbit,need-grass
+cricket,need-grass
+Alpaca,need-grass
+hare,need-grass
+grasshopper,need-grass
+Viper,can-Bite
+Viper,can-Bite
+Viper,can-Bite
+Viper,can-Bite
+The Dachshund,can-Bite
+The Dachshund,can-Bite
+snake,can-Bite
+snake,can-Bite
+Bungarus multicinctus,can-Bite
+Bungarus multicinctus,can-Bite
+leopard,has-Nose
+Timber wolf,has-Nose
+African elephant,has-Nose
+Dog,has-Nose
+Siberian Husky,has-Nose
+monkey,has-Nose
+Raccoons,has-Nose
+Koala,has-Nose
+The Dachshund,has-Nose
+hound,has-Nose
+mule,has-Nose
+Elk,has-Nose
+Ewes,has-Nose
+cattle,has-Nose
+lion,has-Nose
+mouse,has-Keys
+chimpanzee,has-Nose
+Tyrannosaurus Rex,is-vicious
+leopard,is-vicious
+Timber wolf,is-vicious
+Jellyfish,is-Biology
+panther,is-vicious
+Dinosaur,is-vicious
+wolf,is-vicious
+tiger,is-vicious
+Cheetah,is-vicious
+hound,is-vicious
+Python,is-vicious
+Oysters,is-Biology
+Oysters,is-Biology
+lion,is-vicious
+Jellyfish,is-Biology
+Vulture,is-vicious
+moth,is-Biology
+Guppy,is-good to see
+moth,has-Antennae
+Jellyfish,has-Antennae
+Jellyfish,has-Antennae
+snail,has-Antennae
+cricket,has-Antennae
+grasshopper,has-Antennae
+Python,has-HEAD
+ostrich,has-HEAD
+lizard,has-HEAD
+cricket,has-HEAD
+Bungarus multicinctus,has-HEAD
+zebra,has-Patterns
+Carp,has-fins
+Viper,like-rope
+Turbot,has-fins
+Viper,like-rope
+Sea snake,like-rope
+Crucian carp,has-fins
+leopard,has-Patterns
+whale,has-fins
+Guppy,has-fins
+tiger,has-Patterns
+carp,has-fins
+Cheetah,has-Patterns
+Python,like-rope
+Python,has-Patterns
+The sperm whale,has-fins
+snake,like-rope
+Bungarus multicinctus,like-rope
+fish,has-fins
+Viper,has-Toxic
+Viper,is-dangerous
+Viper,has-Toxic
+Sea snake,has-Toxic
+Python,has-Toxic
+snake,has-Toxic
+Bungarus multicinctus,has-Toxic
+spider,has-Toxic
+Sea snake,has-Body
+Python,has-Body
+Elk,has-Body
+lizard,has-Body
+cricket,has-Body
+chimpanzee,has-Body
+Persian cat,is-cute
+Turbot,has-Scaly
+Dog,is-cute
+Raccoons,is-cute
+Crucian carp,has-Scaly
+Koala,is-cute
+Guppy,has-Scaly
+carp,has-Scaly
+Totoro,is-cute
+Python,has-Scaly
+rabbit,is-cute
+Rabbit,is-cute
+panda,is-cute
+Alpaca,is-cute
+fish,has-Scaly
+leopard,like-Cat
+Jellyfish,like-umbrella
+panther,like-Cat
+Monkey,like-human
+Monkey,can-Jump
+monkey,like-human
+Raccoons,is-Brown
+Crucian carp,is-in the water
+leopard,like-Cat
+tiger,like-Cat
+Cheetah,like-Cat
+Totoro,like-Cat
+Leech,is-Harmful
+lion,like-Cat
+Jellyfish,like-umbrella
+Jellyfish,is-in the water
+Leech,is-Harmful
+Leech,is-in the water
+rabbit,can-Jump
+Rabbit,can-Jump
+cricket,can-Jump
+chimpanzee,like-human
+hare,can-Jump
+hare,like-Cat
+fish,is-in the water
+grasshopper,can-Jump
+moth,is-Harmful
+Viper,is-Reptiles
+Turbot,has-gills
+Sea snake,is-Reptiles
+cattle,has-Angle
+Crucian carp,has-gills
+Crucian carp,need-Oxygen
+Guppy,need-Oxygen
+Guppy,has-gills
+carp,has-gills
+carp,need-Oxygen
+Python,is-Reptiles
+Yak,has-Angle
+Elk,has-Angle
+The sperm whale,need-Oxygen
+Ewes,has-Angle
+cattle,has-Angle
+snake,is-Reptiles
+lizard,is-Reptiles
+cricket,can-Call
+Bungarus multicinctus,is-Reptiles
+fish,has-gills
+fish,need-Oxygen
+Robins,can-Call
+spider,is-Reptiles
+Siberian Husky,is-Dog
+The Dachshund,is-Dog
+hound,is-Dog
+Chow Chow,is-Dog
+lizard,need-Insect
+swallow,need-Insect
+spider,need-Insect
+Carp,need-Seawater
+Viper,is-Snake
+goose,is-Poultry
+Viper,is-Snake
+dove,is-Poultry
+Cock,is-Poultry
+Sea snake,is-Snake
+Sea snake,need-Seawater
+Jellyfish,can-Cool
+Python,is-Snake
+The sperm whale,need-Seawater
+Hen,is-Poultry
+Jellyfish,need-Seawater
+Jellyfish,can-Move
+lizard,like-snake
+duck,is-Poultry
+pheasant,is-Poultry
+Bungarus multicinctus,is-Snake
+zebra,like-horse
+Persian cat,is-pets
+Dog,is-pets
+Siberian Husky,is-pets
+Sea snake,has-tongue
+Monkey,can-Climb Trees
+Raccoons,can-Climb Trees
+Koala,can-Climb Trees
+The Dachshund,is-pets
+Totoro,is-pets
+Totoro,like-mouse
+mule,like-horse
+Python,has-tongue
+Elk,like-horse
+penguin,has-feet
+snake,has-tongue
+mouse,like-mouse
+mouse,is-Electronic Products
+Chow Chow,is-pets
+lizard,has-tongue
+cricket,has-feet
+panda,can-Climb Trees
+mole,like-mouse
+Bungarus multicinctus,has-tongue
+Robins,has-feet
+spider,has-feet
+zebra,is-black and white
+leopard,like-Lion
+Otarriinae,like-Lion
+tiger,like-Lion
+Cheetah,like-Lion
+Ewes,has-wool
+penguin,is-black and white
+Jellyfish,like-Mushroom
+Chow Chow,like-Lion
+panda,is-black and white
+leopard,like-Tiger
+leopard,is-fast
+leopard,is-Catidae
+Persian cat,is-Catidae
+Persian cat,like-Tiger
+goose,like-duck
+Dog,like-wolf
+Siberian Husky,like-wolf
+panther,is-Catidae
+black swan,like-duck
+fox,like-wolf
+leopard,like-Tiger
+Cheetah,like-Tiger
+Cheetah,is-Catidae
+Cheetah,is-fast
+hound,like-wolf
+Leech,can-suck blood
+Oysters,is-Seafood
+Oysters,is-Seafood
+lion,like-Tiger
+lion,is-Catidae
+mouse,need-Computer
+Leech,can-suck blood
+Swan,like-duck
+swallow,like-Sparrow
+Robins,like-Sparrow
+zebra,is-Grass Food
+Timber wolf,is-Grey
+Timber wolf,has-sharp teeth
+goose,is-domestic
+Cock,is-domestic
+Otarriinae,has-beard
+black swan,has-Neck
+Monkey,is-Primates
+cattle,can-cultivate land
+cattle,is-Niu
+whale,can-Spray
+Dinosaur,is-Grass Food
+wolf,is-Grey
+tiger,has-sharp teeth
+Yak,is-Niu
+Hen,is-domestic
+Ewes,is-Sheep
+Oysters,is-shellfish
+cattle,can-cultivate land
+Squab,can-grill
+Oysters,is-shellfish
+lion,has-sharp teeth
+Jellyfish,like-octopus
+Swan,has-Neck
+ostrich,has-Neck
+chimpanzee,is-Primates
+panda,need-Bamboo
+duck,is-domestic
+Alpaca,has-Neck
+hare,is-Grass Food
+spider,like-octopus
+zebra,has-stripe
+zebra,need-breath
+leopard,has-spots
+Timber wolf,like-Dog
+Timber wolf,has-four legs
+Carp,like-tape
+goose,like-chicken
+Cock,is-Chicken
+Dog,can-Housekeeping
+Seagull,is-Offshore
+Jellyfish,need-fishing
+fox,like-Dog
+Dinosaur,like-Lizard
+wolf,like-Dog
+mouse,can-Hole
+Cheetah,has-spots
+Snail,like-Snail
+Snail,need-fishing
+Python,is-cold blood
+Yak,has-horn
+The sperm whale,need-Fish
+Hen,can-lay eggs
+Hen,can-hatch
+Ewes,can-produce milk
+cattle,like-sheep
+cattle,has-horn
+penguin,need-Fish
+Squab,like-chicken
+snake,is-cold blood
+Oysters,need-fishing
+rat,can-Hole
+rabbit,has-Long Ears
+Rabbit,has-Long Ears
+ostrich,can-lay eggs
+lizard,is-Amphibians
+lizard,is-cold blood
+chimpanzee,like-Monkey
+mole,can-Hole
+Alpaca,like-sheep
+Alpaca,like-sheep
+pheasant,is-Chicken
+hare,has-Long Ears
+hare,has-four legs
+Tyrannosaurus Rex,is-Dinosaurs
+Tyrannosaurus Rex,is-extinct
+Timber wolf,can-Cannibals
+Carp,is-Silver
+moth,like-Butterfly
+African elephant,has-Long Nose
+African elephant,has-Ivory
+Cock,has-Cockcomb
+Seagull,like-Pigeon
+panther,is-Leopard
+Monkey,is-Smart
+Monkey,like-a-chimpanzee
+cattle,like-Buffalo
+Crucian carp,like-carp
+leopard,is-Leopard
+whale,like-Shark
+Koala,like-Bear
+Dinosaur,is-extinct
+The Dachshund,like-Sausage like
+Leech,like-earthworms
+Python,can-Cannibals
+Python,need-Hibernate
+Yak,like-Buffalo
+The sperm whale,like-Shark
+Ewes,can-Produce
+Oysters,like-scallop
+snake,need-Hibernate
+Oysters,like-scallop
+mouse,has-Wireless
+Leech,like-earthworms
+Leech,has-suction cup
+Leech,like-Loach
+Swan,like-goose
+snail,like-tortoise
+lizard,like-Gecko
+lizard,can-Discolor
+cricket,like-Grasshopper
+cricket,like-Mantis
+panda,like-Bear
+duck,like-goose
+pheasant,has-Cockcomb
+grasshopper,like-Mantis
+spider,can-spit
+moth,like-carpenterworm
+Persian cat,is-Cat
+Persian cat,can-strip
+Timber wolf,is-Wolf
+Timber wolf,need-Sheep
+African elephant,is-Elephant
+African elephant,has-big ears
+African elephant,is-African
+dove,can-Letter
+Cock,can-Beep
+Cock,is-Male
+Cock,like-hen
+Dog,can-Watchdog
+Siberian Husky,is-dumb
+Otarriinae,like-Seal
+Jellyfish,is-Jellyfish
+black swan,is-Swan
+black swan,has-Long Neck
+Monkey,like-Ape
+fox,is-sly
+fox,has-Big Tail
+Raccoons,is-Bear
+Raccoons,like-Panda
+Crucian carp,is-Freshwater
+Crucian carp,like-grass carp
+Rat,is-Mouse
+Koala,is-Australian
+Guppy,like-Peacock
+wolf,is-gregarious
+carp,like-Carassius auratus
+carp,like-Goldfish
+hound,can-train
+Totoro,is-Animation
+Totoro,is-Role
+mule,like-donkey
+mule,is-Hybrid
+Snail,is-TEDA SCREW
+Leech,is-Hirudo
+Leech,is-Link Class
+Python,is-terrible
+Python,need-Away
+Yak,like-Cattle
+Elk,is-Deer
+Elk,like-Sika Deer
+The sperm whale,is-Whale
+Hen,like-rooster
+Ewes,can-Raw Sheep
+Ewes,is-female
+cattle,can-plow
+Squab,is-Pigeon
+rat,has-hamster
+mouse,has-wired
+mouse,can-operate the computer
+Leech,is-Locusts
+Vulture,like-Eagle
+Rabbit,need-Carrot
+lizard,like-chameleon
+lizard,like-Crocodile
+cricket,is-Scorpion
+chimpanzee,has-Hand
+panda,is-National Treasure
+panda,has-black circles
+panda,can-be viewed
+panda,like-Selenarctos thebetanus
+panda,need-sleep
+duck,like-Swan
+duck,has-webbed feet
+mole,is-rodents
+swallow,like-scissors
+Alpaca,like-Camel
+hare,is-Rabbit
+fish,like-Submarine
+spider,has-eight legs

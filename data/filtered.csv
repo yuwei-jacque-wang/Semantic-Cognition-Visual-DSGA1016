@@ -1,0 +1,2832 @@
+concept,feature,________-number of participants mentioning this feature,________-number of participants rating this feature,_30_____________-normalized numer of participants mentioning this feature,COUNTIF feature,COUNTIF item
+Tyrannosaurus Rex,need-Water,13,28,13.92857143,390,16
+silver birch,need-Water,17,30,17,390,19
+white-barked pine,need-Water,16,30,16,390,16
+Cypress,need-Water,18,28,19.28571429,390,16
+zebra,need-Water,14,28,15,390,25
+leopard,need-Water,15,30,15,390,40
+Persian cat,need-Water,10,29,10.34482759,390,18
+Dionaea muscipula,need-Water,23,30,23,390,16
+Daisy,need-Water,16,29,16.55172414,390,16
+Scallion,need-Water,11,30,11,390,17
+soybean,need-Water,8,30,8,390,26
+Timber wolf,need-Water,11,30,11,390,24
+garlic,need-Water,12,30,12,390,16
+Jujube,need-Water,9,30,9,390,27
+Carp,need-Water,10,29,10.34482759,390,32
+Watermelon,need-Water,11,31,10.64516129,390,36
+Viper,need-Water,6,30,6,390,27
+Turbot,need-Water,19,30,19,390,16
+goose,need-Water,12,30,12,390,17
+moth,need-Water,8,29,8.275862069,390,19
+tomato,need-Water,13,30,13,390,17
+African elephant,need-Water,20,31,19.35483871,390,19
+Viper,need-Water,9,29,9.310344828,390,27
+Cabbage,need-Water,19,30,19,390,29
+citrus,need-Water,9,29,9.310344828,390,17
+olive,need-Water,16,31,15.48387097,390,27
+Olive,need-Water,20,29,20.68965517,390,27
+dove,need-Water,16,30,16,390,16
+Cock,need-Water,18,30,18,390,20
+Dog,need-Water,16,29,16.55172414,390,22
+millet,need-Water,16,30,16,390,17
+shrub,need-Water,23,30,23,390,17
+Siberian Husky,need-Water,12,31,11.61290323,390,19
+seaweed,need-Water,12,30,12,390,29
+Seagull,need-Water,14,30,14,390,16
+Sea snake,need-Water,13,30,13,390,18
+Otarriinae,need-Water,13,30,13,390,16
+Seaweed,need-Water,6,29,6.206896552,390,29
+seaweed,need-Water,9,29,9.310344828,390,29
+Jellyfish,need-Water,10,31,9.677419355,390,29
+Lotus,need-Water,19,30,19,390,37
+panther,need-Water,21,29,21.72413793,390,20
+black swan,need-Water,16,30,16,390,17
+Monkey,need-Water,12,29,12.4137931,390,29
+monkey,need-Water,6,30,6,390,29
+fox,need-Water,12,30,12,390,17
+Cucurbit,need-Water,18,30,18,390,21
+Cauliflower,need-Water,12,30,12,390,17
+birch,need-Water,16,30,16,390,16
+Raccoons,need-Water,16,30,16,390,20
+cucumber,need-Water,13,30,13,390,21
+cattle,need-Water,13,30,13,390,31
+Crucian carp,need-Water,17,30,17,390,17
+Rat,need-Water,11,30,11,390,21
+leopard,need-Water,18,30,18,390,40
+Honeysuckle,need-Water,14,30,14,390,20
+whale,need-Water,14,33,12.72727273,390,18
+Orange,need-Water,9,30,9,390,16
+Chrysanthemum,need-Water,18,31,17.41935484,390,19
+Cabbage,need-Water,19,30,19,390,29
+Koala,need-Water,13,30,13,390,18
+Guppy,need-Water,18,28,19.28571429,390,17
+Dinosaur,need-Water,20,30,20,390,17
+Sunflower,need-Water,11,29,11.37931034,390,30
+The Dachshund,need-Water,20,29,20.68965517,390,19
+Blueberry,need-Water,17,30,17,390,16
+wolf,need-Water,17,29,17.5862069,390,22
+tiger,need-Water,11,31,10.64516129,390,23
+mouse,need-Water,11,30,11,390,25
+carp,need-Water,16,30,16,390,32
+litchi,need-Water,12,31,11.61290323,390,17
+Lotus,need-Water,25,30,25,390,37
+Cheetah,need-Water,15,30,15,390,25
+hound,need-Water,19,30,19,390,21
+Durian,need-Water,12,30,12,390,16
+Totoro,need-Water,11,29,11.37931034,390,16
+mule,need-Water,19,30,19,390,16
+Snail,need-Water,11,30,11,390,20
+Leech,need-Water,14,29,14.48275862,390,27
+babysbreath,need-Water,18,29,18.62068966,390,16
+Python,need-Water,18,47,11.4893617,390,30
+Soybean,need-Water,11,29,11.37931034,390,26
+Yak,need-Water,17,30,17,390,18
+kiwifruit,need-Water,11,30,11,390,17
+Elk,need-Water,21,30,21,390,19
+honey peach,need-Water,8,30,8,390,28
+The sperm whale,need-Water,10,30,10,390,19
+Hen,need-Water,20,30,20,390,18
+Ewes,need-Water,20,30,20,390,21
+Oysters,need-Water,8,31,7.741935484,390,24
+cattle,need-Water,17,31,16.4516129,390,31
+Loquat,need-Water,15,30,15,390,19
+Grape,need-Water,13,31,12.58064516,390,20
+penguin,need-Water,15,31,14.51612903,390,17
+Squab,need-Water,14,30,14,390,16
+Mulberry,need-Water,13,30,13,390,17
+Hawthorn,need-Water,14,31,13.5483871,390,17
+snake,need-Water,18,31,17.41935484,390,19
+Oysters,need-Water,6,30,6,390,24
+lion,need-Water,14,30,14,390,23
+rat,need-Water,18,30,18,390,21
+Honey peach,need-Water,13,30,13,390,28
+Jellyfish,need-Water,14,30,14,390,29
+Metasequoia,need-Water,20,30,20,390,19
+Leech,need-Water,17,28,18.21428571,390,27
+Chow Chow,need-Water,10,30,10,390,16
+Peach,need-Water,11,30,11,390,17
+Swan,need-Water,13,31,12.58064516,390,18
+Vulture,need-Water,14,28,15,390,16
+rabbit,need-Water,9,30,9,390,35
+Rabbit,need-Water,11,30,11,390,35
+ostrich,need-Water,14,30,14,390,16
+Lettuce,need-Water,17,31,16.4516129,390,33
+snail,need-Water,12,30,12,390,20
+watermelon,need-Water,12,31,11.61290323,390,36
+Tomatoes,need-Water,12,31,11.61290323,390,22
+Broccoli,need-Water,12,30,12,390,16
+lizard,need-Water,22,50,13.2,390,30
+cricket,need-Water,18,59,9.152542373,390,24
+coriander,need-Water,15,30,15,390,17
+Sunflower,need-Water,16,31,15.48387097,390,30
+A variety of Chinese cabbage,need-Water,15,30,15,390,17
+chimpanzee,need-Water,11,30,11,390,18
+panda,need-Water,15,29,15.51724138,390,23
+duck,need-Water,21,29,21.72413793,390,17
+mole,need-Water,12,30,12,390,16
+swallow,need-Water,18,31,17.41935484,390,17
+Alpaca,need-Water,14,30,14,390,21
+onion,need-Water,13,30,13,390,17
+Coconut,need-Water,7,30,7,390,18
+pheasant,need-Water,16,29,16.55172414,390,16
+hare,need-Water,14,30,14,390,21
+Bungarus multicinctus,need-Water,10,29,10.34482759,390,18
+Cherry,need-Water,11,30,11,390,17
+Lettuce,need-Water,13,30,13,390,33
+grapefruit,need-Water,9,30,9,390,17
+fish,need-Water,17,30,17,390,16
+tulips,need-Water,22,31,21.29032258,390,17
+Jujube,need-Water,13,30,13,390,27
+grasshopper,need-Water,10,30,10,390,17
+Robins,need-Water,17,29,17.5862069,390,17
+spider,need-Water,9,30,9,390,17
+moth,need-Water,6,28,6.428571429,390,19
+Scallion,is-Food,15,30,15,387,17
+soybean,is-Food,24,30,24,387,26
+garlic,is-Food,24,30,24,387,16
+Jujube,is-Food,27,30,27,387,27
+Carp,is-Food,27,29,27.93103448,387,32
+Watermelon,is-Food,24,31,23.22580645,387,36
+Soybean Milk,is-Food,14,29,14.48275862,387,16
+Turbot,is-Food,19,30,19,387,16
+goose,is-Food,17,30,17,387,17
+tomato,is-Food,25,30,25,387,17
+Cabbage,is-Food,25,30,25,387,29
+citrus,is-Food,25,29,25.86206897,387,17
+olive,is-Food,23,31,22.25806452,387,27
+dove,is-Food,6,30,6,387,16
+Cock,is-Food,12,30,12,387,20
+Dog,is-Food,7,29,7.24137931,387,22
+millet,is-Food,21,30,21,387,17
+millet,is-Food,15,30,15,387,17
+Hami melon,is-Food,26,30,26,387,17
+seaweed,is-Food,11,30,11,387,29
+Sea snake,is-Food,8,30,8,387,18
+Seaweed,is-Food,27,29,27.93103448,387,29
+seaweed,is-Food,15,29,15.51724138,387,29
+Jellyfish,is-Food,20,31,19.35483871,387,29
+Lotus,is-Food,8,30,8,387,37
+Cucurbit,is-Food,22,30,22,387,21
+Cauliflower,is-Food,24,30,24,387,17
+cucumber,is-Food,28,30,28,387,21
+cattle,is-Food,11,30,11,387,31
+egg,is-Food,26,31,25.16129032,387,17
+Crucian carp,is-Food,20,30,20,387,17
+Honeysuckle,is-Food,9,30,9,387,20
+Orange,is-Food,26,30,26,387,16
+Cabbage,is-Food,24,30,24,387,29
+Guppy,is-Food,8,28,8.571428571,387,17
+Sunflower,is-Food,12,29,12.4137931,387,30
+Sausage,is-Food,29,30,29,387,18
+Bacon,is-Food,27,30,27,387,18
+Blueberry,is-Food,23,30,23,387,16
+carp,is-Food,18,30,18,387,32
+litchi,is-Food,31,31,30,387,17
+Lotus,is-Food,9,30,9,387,37
+Durian,is-Food,27,30,27,387,16
+mule,is-Food,8,30,8,387,16
+Snail,is-Food,23,30,23,387,20
+Soybean,is-Food,29,29,30,387,26
+Yak,is-Food,13,30,13,387,18
+kiwifruit,is-Food,27,30,27,387,17
+honey peach,is-Food,25,30,25,387,28
+Hen,is-Food,9,30,9,387,18
+Ewes,is-Food,11,30,11,387,21
+Oysters,is-Food,29,31,28.06451613,387,24
+lemon,is-Food,19,30,19,387,16
+cattle,is-Food,11,31,10.64516129,387,31
+Bacon,is-Food,27,31,26.12903226,387,18
+Loquat,is-Food,26,30,26,387,19
+Grape,is-Food,25,31,24.19354839,387,20
+Squab,is-Food,23,30,23,387,16
+Mulberry,is-Food,23,30,23,387,17
+Hawthorn,is-Food,28,31,27.09677419,387,17
+Oysters,is-Food,24,30,24,387,24
+Honey peach,is-Food,24,30,24,387,28
+Peach,is-Food,29,30,29,387,17
+rabbit,is-Food,13,30,13,387,35
+Rabbit,is-Food,16,30,16,387,35
+Lettuce,is-Food,29,31,28.06451613,387,33
+snail,is-Food,8,30,8,387,20
+watermelon,is-Food,25,31,24.19354839,387,36
+Tomatoes,is-Food,24,31,23.22580645,387,22
+Broccoli,is-Food,24,30,24,387,16
+coriander,is-Food,21,30,21,387,17
+sausage,is-Food,30,31,29.03225806,387,18
+Sunflower,is-Food,13,31,12.58064516,387,30
+A variety of Chinese cabbage,is-Food,26,30,26,387,17
+millet,is-Food,20,29,20.68965517,387,17
+millet,is-Food,8,29,8.275862069,387,17
+duck,is-Food,13,29,13.44827586,387,17
+Alpaca,is-Food,6,30,6,387,21
+onion,is-Food,26,30,26,387,17
+Coconut,is-Food,20,30,20,387,18
+pheasant,is-Food,17,29,17.5862069,387,16
+hare,is-Food,20,30,20,387,21
+Cherry,is-Food,21,30,21,387,17
+Lettuce,is-Food,27,30,27,387,33
+grapefruit,is-Food,27,30,27,387,17
+fish,is-Food,26,30,26,387,16
+Jujube,is-Food,27,30,27,387,27
+grasshopper,is-Food,8,30,8,387,17
+Tyrannosaurus Rex,need-Air,11,28,11.78571429,236,16
+silver birch,need-Air,9,30,9,236,19
+white-barked pine,need-Air,8,30,8,236,16
+Cypress,need-Air,14,28,15,236,16
+zebra,need-Air,9,28,9.642857143,236,25
+leopard,need-Air,6,30,6,236,40
+Persian cat,need-Air,7,29,7.24137931,236,18
+Dionaea muscipula,need-Air,14,30,14,236,16
+Timber wolf,need-Air,10,30,10,236,24
+garlic,need-Air,6,30,6,236,16
+Jujube,need-Air,9,30,9,236,27
+Carp,need-Air,6,29,6.206896552,236,32
+Watermelon,need-Air,7,31,6.774193548,236,36
+Turbot,need-Air,7,30,7,236,16
+goose,need-Air,7,30,7,236,17
+moth,need-Air,8,29,8.275862069,236,19
+tomato,need-Air,7,30,7,236,17
+African elephant,need-Air,9,31,8.709677419,236,19
+Cabbage,need-Air,8,30,8,236,29
+citrus,need-Air,6,29,6.206896552,236,17
+olive,need-Air,8,31,7.741935484,236,27
+Olive,need-Air,14,29,14.48275862,236,27
+dove,need-Air,6,30,6,236,16
+Cock,need-Air,10,30,10,236,20
+Dog,need-Air,9,29,9.310344828,236,22
+millet,need-Air,9,30,9,236,17
+shrub,need-Air,11,30,11,236,17
+Hami melon,need-Air,6,30,6,236,17
+Seagull,need-Air,10,30,10,236,16
+Sea snake,need-Air,6,30,6,236,18
+Otarriinae,need-Air,8,30,8,236,16
+Lotus,need-Air,9,30,9,236,37
+panther,need-Air,12,29,12.4137931,236,20
+black swan,need-Air,11,30,11,236,17
+Monkey,need-Air,6,29,6.206896552,236,29
+fox,need-Air,7,30,7,236,17
+Cucurbit,need-Air,9,30,9,236,21
+Cauliflower,need-Air,6,30,6,236,17
+birch,need-Air,7,30,7,236,16
+Raccoons,need-Air,6,30,6,236,20
+cucumber,need-Air,6,30,6,236,21
+Crucian carp,need-Air,7,30,7,236,17
+leopard,need-Air,10,30,10,236,40
+Honeysuckle,need-Air,8,30,8,236,20
+Chrysanthemum,need-Air,9,31,8.709677419,236,19
+Cabbage,need-Air,9,30,9,236,29
+Koala,need-Air,6,30,6,236,18
+Dinosaur,need-Air,8,30,8,236,17
+Sunflower,need-Air,7,29,7.24137931,236,30
+The Dachshund,need-Air,7,29,7.24137931,236,19
+Blueberry,need-Air,12,30,12,236,16
+wolf,need-Air,12,29,12.4137931,236,22
+tiger,need-Air,6,31,5.806451613,236,23
+litchi,need-Air,8,31,7.741935484,236,17
+Lotus,need-Air,10,30,10,236,37
+Cheetah,need-Air,7,30,7,236,25
+hound,need-Air,9,30,9,236,21
+Durian,need-Air,6,30,6,236,16
+Totoro,need-Air,9,29,9.310344828,236,16
+mule,need-Air,9,30,9,236,16
+Leech,need-Air,6,29,6.206896552,236,27
+babysbreath,need-Air,11,29,11.37931034,236,16
+Python,need-Air,12,47,7.659574468,236,30
+Yak,need-Air,10,30,10,236,18
+Elk,need-Air,12,30,12,236,19
+Hen,need-Air,8,30,8,236,18
+Ewes,need-Air,8,30,8,236,21
+Loquat,need-Air,8,30,8,236,19
+Grape,need-Air,7,31,6.774193548,236,20
+penguin,need-Air,9,31,8.709677419,236,17
+Squab,need-Air,7,30,7,236,16
+Mulberry,need-Air,7,30,7,236,17
+snake,need-Air,8,31,7.741935484,236,19
+lion,need-Air,8,30,8,236,23
+rat,need-Air,12,30,12,236,21
+Honey peach,need-Air,6,30,6,236,28
+Metasequoia,need-Air,7,30,7,236,19
+Leech,need-Air,9,28,9.642857143,236,27
+Chow Chow,need-Air,8,30,8,236,16
+Peach,need-Air,7,30,7,236,17
+Vulture,need-Air,8,28,8.571428571,236,16
+Rabbit,need-Air,7,30,7,236,35
+ostrich,need-Air,8,30,8,236,16
+Lettuce,need-Air,8,31,7.741935484,236,33
+snail,need-Air,6,30,6,236,20
+watermelon,need-Air,6,31,5.806451613,236,36
+Broccoli,need-Air,6,30,6,236,16
+lizard,need-Air,15,50,9,236,30
+cricket,need-Air,9,59,4.576271186,236,24
+coriander,need-Air,6,30,6,236,17
+Sunflower,need-Air,10,31,9.677419355,236,30
+A variety of Chinese cabbage,need-Air,9,30,9,236,17
+chimpanzee,need-Air,8,30,8,236,18
+panda,need-Air,7,29,7.24137931,236,23
+duck,need-Air,10,29,10.34482759,236,17
+mole,need-Air,6,30,6,236,16
+swallow,need-Air,9,31,8.709677419,236,17
+Alpaca,need-Air,8,30,8,236,21
+onion,need-Air,7,30,7,236,17
+pheasant,need-Air,10,29,10.34482759,236,16
+hare,need-Air,10,30,10,236,21
+Lettuce,need-Air,9,30,9,236,33
+tulips,need-Air,10,31,9.677419355,236,17
+grasshopper,need-Air,7,30,7,236,17
+Robins,need-Air,13,29,13.44827586,236,17
+spider,need-Air,6,30,6,236,17
+glass,need-Clean,14,30,14,208,19
+Knife,need-Clean,9,30,9,208,25
+Scallion,need-Clean,6,30,6,208,17
+tomato,need-Clean,10,30,10,208,17
+Cabbage,need-Clean,6,30,6,208,29
+pot,need-Clean,12,30,12,208,16
+Cucurbit,need-Clean,7,30,7,208,21
+cucumber,need-Clean,9,30,9,208,21
+Cushion,need-Clean,8,31,7.741935484,208,17
+trousers,need-Clean,11,30,11,208,18
+Blueberry,need-Clean,7,30,7,208,16
+honey peach,need-Clean,7,30,7,208,28
+leather jacket,need-Clean,9,30,9,208,16
+Grape,need-Clean,8,31,7.741935484,208,20
+gym shoes,need-Clean,15,30,15,208,16
+Honey peach,need-Clean,7,30,7,208,28
+Peach,need-Clean,14,30,14,208,17
+coriander,need-Clean,9,30,9,208,17
+A variety of Chinese cabbage,need-Clean,6,30,6,208,17
+Cherry,need-Clean,8,30,8,208,17
+Lettuce,need-Clean,10,30,10,208,33
+gym shoes,need-Clean,12,29,12.4137931,208,16
+Jujube,need-Clean,9,30,9,208,27
+trousers,need-Clean,11,30,11,208,18
+Cushion,need-Clean,13,28,13.92857143,208,17
+Tyrannosaurus Rex,is-Animals,17,28,18.21428571,192,16
+zebra,is-Animals,27,28,28.92857143,192,25
+leopard,is-Animals,30,30,30,192,40
+Persian cat,is-Animals,18,29,18.62068966,192,18
+Timber wolf,is-Animals,22,30,22,192,24
+Carp,is-Animals,7,29,7.24137931,192,32
+Viper,is-Animals,25,30,25,192,27
+Turbot,is-Animals,13,30,13,192,16
+goose,is-Animals,26,30,26,192,17
+moth,is-Animals,10,29,10.34482759,192,19
+African elephant,is-Animals,24,31,23.22580645,192,19
+Viper,is-Animals,21,29,21.72413793,192,27
+dove,is-Animals,24,30,24,192,16
+Cock,is-Animals,24,30,24,192,20
+Dog,is-Animals,23,29,23.79310345,192,22
+Siberian Husky,is-Animals,14,31,13.5483871,192,19
+Seagull,is-Animals,16,30,16,192,16
+Sea snake,is-Animals,23,30,23,192,18
+Otarriinae,is-Animals,27,30,27,192,16
+Jellyfish,is-Animals,10,31,9.677419355,192,29
+panther,is-Animals,28,29,28.96551724,192,20
+black swan,is-Animals,25,30,25,192,17
+Monkey,is-Animals,28,29,28.96551724,192,29
+monkey,is-Animals,27,30,27,192,29
+fox,is-Animals,26,30,26,192,17
+Raccoons,is-Animals,22,30,22,192,20
+cattle,is-Animals,20,30,20,192,31
+Crucian carp,is-Animals,14,30,14,192,17
+Rat,is-Animals,18,30,18,192,21
+leopard,is-Animals,26,30,26,192,40
+whale,is-Animals,29,33,26.36363636,192,18
+Koala,is-Animals,30,30,30,192,18
+Guppy,is-Animals,8,28,8.571428571,192,17
+Dinosaur,is-Animals,23,30,23,192,17
+The Dachshund,is-Animals,19,29,19.65517241,192,19
+wolf,is-Animals,24,29,24.82758621,192,22
+tiger,is-Animals,31,31,30,192,23
+mouse,is-Animals,28,30,28,192,25
+carp,is-Animals,13,30,13,192,32
+Cheetah,is-Animals,29,30,29,192,25
+hound,is-Animals,24,30,24,192,21
+Totoro,is-Animals,13,29,13.44827586,192,16
+mule,is-Animals,24,30,24,192,16
+Snail,is-Animals,16,30,16,192,20
+Leech,is-Animals,15,29,15.51724138,192,27
+Python,is-Animals,36,47,22.9787234,192,30
+Yak,is-Animals,26,30,26,192,18
+Elk,is-Animals,28,30,28,192,19
+The sperm whale,is-Animals,19,30,19,192,19
+Hen,is-Animals,29,30,29,192,18
+Ewes,is-Animals,25,30,25,192,21
+Oysters,is-Animals,15,31,14.51612903,192,24
+cattle,is-Animals,29,31,28.06451613,192,31
+penguin,is-Animals,27,31,26.12903226,192,17
+Squab,is-Animals,17,30,17,192,16
+snake,is-Animals,27,31,26.12903226,192,19
+Oysters,is-Animals,10,30,10,192,24
+lion,is-Animals,28,30,28,192,23
+rat,is-Animals,25,30,25,192,21
+Jellyfish,is-Animals,14,30,14,192,29
+Leech,is-Animals,21,28,22.5,192,27
+Chow Chow,is-Animals,20,30,20,192,16
+Swan,is-Animals,25,31,24.19354839,192,18
+Vulture,is-Animals,20,28,21.42857143,192,16
+rabbit,is-Animals,25,30,25,192,35
+Rabbit,is-Animals,25,30,25,192,35
+ostrich,is-Animals,19,30,19,192,16
+snail,is-Animals,24,30,24,192,20
+lizard,is-Animals,48,50,28.8,192,30
+cricket,is-Animals,26,59,13.22033898,192,24
+chimpanzee,is-Animals,30,30,30,192,18
+panda,is-Animals,21,29,21.72413793,192,23
+duck,is-Animals,27,29,27.93103448,192,17
+mole,is-Animals,24,30,24,192,16
+swallow,is-Animals,23,31,22.25806452,192,17
+Alpaca,is-Animals,30,30,30,192,21
+pheasant,is-Animals,29,29,30,192,16
+hare,is-Animals,26,30,26,192,21
+Bungarus multicinctus,is-Animals,20,29,20.68965517,192,18
+fish,is-Animals,19,30,19,192,16
+grasshopper,is-Animals,16,30,16,192,17
+Robins,is-Animals,15,29,15.51724138,192,17
+spider,is-Animals,22,30,22,192,17
+moth,is-Animals,9,28,9.642857143,192,19
+Tyrannosaurus Rex,need-Food,22,28,23.57142857,189,16
+zebra,need-Food,24,28,25.71428571,189,25
+leopard,need-Food,18,30,18,189,40
+Persian cat,need-Food,20,29,20.68965517,189,18
+Dionaea muscipula,need-Food,7,30,7,189,16
+Timber wolf,need-Food,22,30,22,189,24
+Carp,need-Food,8,29,8.275862069,189,32
+Viper,need-Food,15,30,15,189,27
+Turbot,need-Food,14,30,14,189,16
+goose,need-Food,18,30,18,189,17
+moth,need-Food,17,29,17.5862069,189,19
+African elephant,need-Food,26,31,25.16129032,189,19
+Viper,need-Food,15,29,15.51724138,189,27
+dove,need-Food,21,30,21,189,16
+Cock,need-Food,24,30,24,189,20
+Dog,need-Food,20,29,20.68965517,189,22
+Siberian Husky,need-Food,19,31,18.38709677,189,19
+Seagull,need-Food,23,30,23,189,16
+Sea snake,need-Food,19,30,19,189,18
+Otarriinae,need-Food,18,30,18,189,16
+Jellyfish,need-Food,13,31,12.58064516,189,29
+panther,need-Food,23,29,23.79310345,189,20
+black swan,need-Food,15,30,15,189,17
+Monkey,need-Food,18,29,18.62068966,189,29
+monkey,need-Food,12,30,12,189,29
+fox,need-Food,20,30,20,189,17
+Raccoons,need-Food,22,30,22,189,20
+cattle,need-Food,13,30,13,189,31
+Crucian carp,need-Food,13,30,13,189,17
+Rat,need-Food,23,30,23,189,21
+leopard,need-Food,21,30,21,189,40
+whale,need-Food,23,33,20.90909091,189,18
+Koala,need-Food,25,30,25,189,18
+Guppy,need-Food,12,28,12.85714286,189,17
+Dinosaur,need-Food,26,30,26,189,17
+The Dachshund,need-Food,27,29,27.93103448,189,19
+wolf,need-Food,16,29,16.55172414,189,22
+tiger,need-Food,20,31,19.35483871,189,23
+mouse,need-Food,18,30,18,189,25
+carp,need-Food,15,30,15,189,32
+Cheetah,need-Food,22,30,22,189,25
+hound,need-Food,21,30,21,189,21
+Totoro,need-Food,15,29,15.51724138,189,16
+mule,need-Food,21,30,21,189,16
+Snail,need-Food,7,30,7,189,20
+Leech,need-Food,11,29,11.37931034,189,27
+Python,need-Food,37,47,23.61702128,189,30
+Yak,need-Food,22,30,22,189,18
+Elk,need-Food,25,30,25,189,19
+The sperm whale,need-Food,21,30,21,189,19
+Hen,need-Food,16,30,16,189,18
+Ewes,need-Food,22,30,22,189,21
+Oysters,need-Food,6,31,5.806451613,189,24
+cattle,need-Food,22,31,21.29032258,189,31
+penguin,need-Food,22,31,21.29032258,189,17
+Squab,need-Food,13,30,13,189,16
+snake,need-Food,25,31,24.19354839,189,19
+lion,need-Food,21,30,21,189,23
+rat,need-Food,19,30,19,189,21
+Jellyfish,need-Food,11,30,11,189,29
+Chow Chow,need-Food,21,30,21,189,16
+Swan,need-Food,20,31,19.35483871,189,18
+Vulture,need-Food,21,28,22.5,189,16
+rabbit,need-Food,18,30,18,189,35
+Rabbit,need-Food,20,30,20,189,35
+ostrich,need-Food,19,30,19,189,16
+snail,need-Food,16,30,16,189,20
+lizard,need-Food,39,50,23.4,189,30
+cricket,need-Food,24,59,12.20338983,189,24
+chimpanzee,need-Food,23,30,23,189,18
+panda,need-Food,20,29,20.68965517,189,23
+duck,need-Food,22,29,22.75862069,189,17
+mole,need-Food,22,30,22,189,16
+swallow,need-Food,23,31,22.25806452,189,17
+Alpaca,need-Food,22,30,22,189,21
+pheasant,need-Food,20,29,20.68965517,189,16
+hare,need-Food,22,30,22,189,21
+Bungarus multicinctus,need-Food,20,29,20.68965517,189,18
+fish,need-Food,13,30,13,189,16
+grasshopper,need-Food,22,30,22,189,17
+Robins,need-Food,22,29,22.75862069,189,17
+spider,need-Food,20,30,20,189,17
+moth,need-Food,12,28,12.85714286,189,19
+Tyrannosaurus Rex,need-Sunlight,6,28,6.428571429,187,16
+silver birch,need-Sunlight,18,30,18,187,19
+white-barked pine,need-Sunlight,10,30,10,187,16
+Cypress,need-Sunlight,18,28,19.28571429,187,16
+zebra,need-Sunlight,9,28,9.642857143,187,25
+Dionaea muscipula,need-Sunlight,17,30,17,187,16
+Daisy,need-Sunlight,15,29,15.51724138,187,16
+garlic,need-Sunlight,8,30,8,187,16
+Jujube,need-Sunlight,7,30,7,187,27
+Watermelon,need-Sunlight,14,31,13.5483871,187,36
+tomato,need-Sunlight,9,30,9,187,17
+Cabbage,need-Sunlight,15,30,15,187,29
+citrus,need-Sunlight,6,29,6.206896552,187,17
+olive,need-Sunlight,16,31,15.48387097,187,27
+Olive,need-Sunlight,16,29,16.55172414,187,27
+millet,need-Sunlight,10,30,10,187,17
+shrub,need-Sunlight,22,30,22,187,17
+Hami melon,need-Sunlight,8,30,8,187,17
+seaweed,need-Sunlight,6,30,6,187,29
+seaweed,need-Sunlight,8,29,8.275862069,187,29
+Lotus,need-Sunlight,10,30,10,187,37
+Cucurbit,need-Sunlight,9,30,9,187,21
+Cauliflower,need-Sunlight,10,30,10,187,17
+birch,need-Sunlight,13,30,13,187,16
+cucumber,need-Sunlight,9,30,9,187,21
+Honeysuckle,need-Sunlight,15,30,15,187,20
+Orange,need-Sunlight,8,30,8,187,16
+Chrysanthemum,need-Sunlight,15,31,14.51612903,187,19
+Cabbage,need-Sunlight,16,30,16,187,29
+Sunflower,need-Sunlight,16,29,16.55172414,187,30
+Sausage,need-Sunlight,9,30,9,187,18
+Bacon,need-Sunlight,7,30,7,187,18
+Blueberry,need-Sunlight,12,30,12,187,16
+litchi,need-Sunlight,9,31,8.709677419,187,17
+Lotus,need-Sunlight,17,30,17,187,37
+Durian,need-Sunlight,7,30,7,187,16
+babysbreath,need-Sunlight,15,29,15.51724138,187,16
+Soybean,need-Sunlight,7,29,7.24137931,187,26
+kiwifruit,need-Sunlight,11,30,11,187,17
+Loquat,need-Sunlight,13,30,13,187,19
+Grape,need-Sunlight,9,31,8.709677419,187,20
+Mulberry,need-Sunlight,13,30,13,187,17
+Hawthorn,need-Sunlight,13,31,12.58064516,187,17
+Honey peach,need-Sunlight,8,30,8,187,28
+Metasequoia,need-Sunlight,17,30,17,187,19
+Peach,need-Sunlight,10,30,10,187,17
+Lettuce,need-Sunlight,12,31,11.61290323,187,33
+watermelon,need-Sunlight,13,31,12.58064516,187,36
+Tomatoes,need-Sunlight,13,31,12.58064516,187,22
+Broccoli,need-Sunlight,7,30,7,187,16
+lizard,need-Sunlight,7,50,4.2,187,30
+cricket,need-Sunlight,6,59,3.050847458,187,24
+coriander,need-Sunlight,15,30,15,187,17
+Sunflower,need-Sunlight,19,31,18.38709677,187,30
+A variety of Chinese cabbage,need-Sunlight,9,30,9,187,17
+onion,need-Sunlight,10,30,10,187,17
+Coconut,need-Sunlight,7,30,7,187,18
+Cherry,need-Sunlight,6,30,6,187,17
+Lettuce,need-Sunlight,12,30,12,187,33
+grapefruit,need-Sunlight,9,30,9,187,17
+tulips,need-Sunlight,16,31,15.48387097,187,17
+Jujube,need-Sunlight,14,30,14,187,27
+Robins,need-Sunlight,6,29,6.206896552,187,17
+silver birch,is-Plant,20,30,20,183,19
+white-barked pine,is-Plant,17,30,17,183,16
+Cypress,is-Plant,21,28,22.5,183,16
+Dionaea muscipula,is-Plant,30,30,30,183,16
+Daisy,is-Plant,23,29,23.79310345,183,16
+Scallion,is-Plant,17,30,17,183,17
+soybean,is-Plant,15,30,15,183,26
+garlic,is-Plant,8,30,8,183,16
+Watermelon,is-Plant,10,31,9.677419355,183,36
+tomato,is-Plant,13,30,13,183,17
+Cabbage,is-Plant,14,30,14,183,29
+citrus,is-Plant,9,29,9.310344828,183,17
+olive,is-Plant,21,31,20.32258065,183,27
+Olive,is-Plant,19,29,19.65517241,183,27
+millet,is-Plant,7,30,7,183,17
+shrub,is-Plant,23,30,23,183,17
+seaweed,is-Plant,25,30,25,183,29
+Seaweed,is-Plant,6,29,6.206896552,183,29
+seaweed,is-Plant,18,29,18.62068966,183,29
+Lotus,is-Plant,20,30,20,183,37
+Cucurbit,is-Plant,12,30,12,183,21
+Cauliflower,is-Plant,10,30,10,183,17
+birch,is-Plant,15,30,15,183,16
+cucumber,is-Plant,10,30,10,183,21
+Honeysuckle,is-Plant,19,30,19,183,20
+Orange,is-Plant,9,30,9,183,16
+Chrysanthemum,is-Plant,24,31,23.22580645,183,19
+Cabbage,is-Plant,11,30,11,183,29
+Sunflower,is-Plant,23,29,23.79310345,183,30
+Blueberry,is-Plant,7,30,7,183,16
+litchi,is-Plant,7,31,6.774193548,183,17
+Lotus,is-Plant,23,30,23,183,37
+babysbreath,is-Plant,15,29,15.51724138,183,16
+Soybean,is-Plant,11,29,11.37931034,183,26
+Loquat,is-Plant,13,30,13,183,19
+Grape,is-Plant,8,31,7.741935484,183,20
+Mulberry,is-Plant,7,30,7,183,17
+Hawthorn,is-Plant,7,31,6.774193548,183,17
+Metasequoia,is-Plant,24,30,24,183,19
+Peach,is-Plant,9,30,9,183,17
+Lettuce,is-Plant,19,31,18.38709677,183,33
+Tomatoes,is-Plant,10,31,9.677419355,183,22
+Broccoli,is-Plant,10,30,10,183,16
+coriander,is-Plant,12,30,12,183,17
+Sunflower,is-Plant,25,31,24.19354839,183,30
+A variety of Chinese cabbage,is-Plant,12,30,12,183,17
+onion,is-Plant,11,30,11,183,17
+Coconut,is-Plant,11,30,11,183,18
+Lettuce,is-Plant,15,30,15,183,33
+tulips,is-Plant,19,31,18.38709677,183,17
+Bus,is-tools,17,29,17.5862069,176,28
+knife,is-tools,12,31,11.61290323,176,25
+nail,is-tools,9,29,9.310344828,176,17
+Touring car,is-tools,7,30,7,176,18
+Bus,is-tools,20,30,20,176,28
+carriage,is-tools,22,30,22,176,17
+Clock,is-tools,8,30,8,176,22
+mouse,is-tools,8,30,8,176,25
+Carriage,is-tools,20,30,20,176,17
+clock,is-tools,10,29,10.34482759,176,22
+glass,need-to Manufacture,6,30,6,169,19
+Cushion,need-to Manufacture,10,31,9.677419355,169,17
+Sausage,need-to Manufacture,8,30,8,169,18
+tyre,need-to Manufacture,6,54,3.333333333,169,17
+Bacon,need-to Manufacture,6,31,5.806451613,169,18
+Belt,need-to Manufacture,8,30,8,169,22
+leather jacket,need-to Manufacture,6,30,6,169,16
+pot,need-to Manufacture,6,29,6.206896552,169,16
+sausage,need-to Manufacture,14,31,13.5483871,169,18
+belt,need-to Manufacture,7,30,7,169,22
+silver birch,need-soil,10,30,10,147,19
+white-barked pine,need-soil,9,30,9,147,16
+Cypress,need-soil,7,28,7.5,147,16
+Dionaea muscipula,need-soil,7,30,7,147,16
+Daisy,need-soil,10,29,10.34482759,147,16
+Daisy,need-Planting,6,29,6.206896552,147,16
+Scallion,need-Planting,12,30,12,147,17
+Scallion,need-soil,9,30,9,147,17
+soybean,need-Planting,7,30,7,147,26
+garlic,need-Planting,11,30,11,147,16
+garlic,need-soil,10,30,10,147,16
+Jujube,need-Planting,6,30,6,147,27
+Watermelon,need-soil,9,31,8.709677419,147,36
+Watermelon,need-Planting,8,31,7.741935484,147,36
+tomato,need-Planting,11,30,11,147,17
+tomato,need-soil,10,30,10,147,17
+Cabbage,need-soil,15,30,15,147,29
+Cabbage,need-Planting,8,30,8,147,29
+citrus,need-Planting,6,29,6.206896552,147,17
+olive,need-soil,14,31,13.5483871,147,27
+olive,need-Planting,9,31,8.709677419,147,27
+Olive,need-soil,17,29,17.5862069,147,27
+millet,need-Planting,10,30,10,147,17
+millet,need-soil,7,30,7,147,17
+shrub,need-soil,15,30,15,147,17
+Hami melon,need-Planting,10,30,10,147,17
+Hami melon,need-soil,9,30,9,147,17
+Lotus,need-Planting,9,30,9,147,37
+Lotus,need-soil,6,30,6,147,37
+Cucurbit,need-soil,10,30,10,147,21
+Cauliflower,need-soil,10,30,10,147,17
+Cauliflower,need-Planting,7,30,7,147,17
+birch,need-soil,14,30,14,147,16
+birch,need-Planting,8,30,8,147,16
+cucumber,need-Planting,11,30,11,147,21
+cucumber,need-soil,9,30,9,147,21
+Honeysuckle,need-soil,9,30,9,147,20
+Honeysuckle,need-Planting,6,30,6,147,20
+Orange,need-Planting,8,30,8,147,16
+Chrysanthemum,need-soil,12,31,11.61290323,147,19
+Chrysanthemum,need-Planting,11,31,10.64516129,147,19
+Cabbage,need-soil,11,30,11,147,29
+Cabbage,need-Planting,7,30,7,147,29
+Sunflower,need-soil,8,29,8.275862069,147,30
+Sunflower,need-Planting,6,29,6.206896552,147,30
+Blueberry,need-Planting,10,30,10,147,16
+Blueberry,need-soil,6,30,6,147,16
+litchi,need-soil,11,31,10.64516129,147,17
+litchi,need-Planting,8,31,7.741935484,147,17
+Durian,need-Planting,8,30,8,147,16
+Durian,need-soil,6,30,6,147,16
+babysbreath,need-Planting,8,29,8.275862069,147,16
+babysbreath,need-soil,7,29,7.24137931,147,16
+Soybean,need-soil,8,29,8.275862069,147,26
+Soybean,need-Planting,7,29,7.24137931,147,26
+kiwifruit,need-Planting,6,30,6,147,17
+honey peach,need-Planting,8,30,8,147,28
+lemon,need-Planting,7,30,7,147,16
+Loquat,need-soil,11,30,11,147,19
+Loquat,need-Planting,7,30,7,147,19
+Grape,need-Planting,12,31,11.61290323,147,20
+Grape,need-soil,7,31,6.774193548,147,20
+Mulberry,need-soil,8,30,8,147,17
+Mulberry,need-Planting,7,30,7,147,17
+Hawthorn,need-Planting,11,31,10.64516129,147,17
+Hawthorn,need-soil,8,31,7.741935484,147,17
+Honey peach,need-Planting,11,30,11,147,28
+Honey peach,need-soil,6,30,6,147,28
+Metasequoia,need-soil,17,30,17,147,19
+Metasequoia,need-Planting,7,30,7,147,19
+Peach,need-Planting,11,30,11,147,17
+Peach,need-soil,6,30,6,147,17
+pot,need-soil,6,29,6.206896552,147,16
+Lettuce,need-soil,14,31,13.5483871,147,33
+Lettuce,need-Planting,8,31,7.741935484,147,33
+watermelon,need-soil,13,31,12.58064516,147,36
+watermelon,need-Planting,11,31,10.64516129,147,36
+Tomatoes,need-Planting,11,31,10.64516129,147,22
+Tomatoes,need-soil,10,31,9.677419355,147,22
+Broccoli,need-Planting,9,30,9,147,16
+Broccoli,need-soil,7,30,7,147,16
+coriander,need-Planting,13,30,13,147,17
+coriander,need-soil,11,30,11,147,17
+Sunflower,need-soil,11,31,10.64516129,147,30
+Sunflower,need-Planting,6,31,5.806451613,147,30
+A variety of Chinese cabbage,need-Planting,9,30,9,147,17
+A variety of Chinese cabbage,need-soil,6,30,6,147,17
+onion,need-soil,7,30,7,147,17
+onion,need-Planting,7,30,7,147,17
+Coconut,need-Planting,7,30,7,147,18
+Coconut,need-soil,6,30,6,147,18
+Cherry,need-Planting,8,30,8,147,17
+Cherry,need-soil,6,30,6,147,17
+Lettuce,need-soil,14,30,14,147,33
+Lettuce,need-Planting,9,30,9,147,33
+grapefruit,need-Planting,12,30,12,147,17
+tulips,need-soil,19,31,18.38709677,147,17
+tulips,need-Planting,11,31,10.64516129,147,17
+Jujube,need-soil,6,30,6,147,27
+Cushion,can-Buy,9,31,8.709677419,143,17
+lemon,can-Buy,6,30,6,143,16
+leather jacket,can-Buy,6,30,6,143,16
+Oysters,can-Buy,6,30,6,143,24
+belt,can-Buy,6,30,6,143,22
+gym shoes,can-Buy,7,29,7.24137931,143,16
+zebra,has-Eyes,6,28,6.428571429,130,25
+leopard,has-Eyes,13,30,13,130,40
+Persian cat,has-Eyes,10,29,10.34482759,130,18
+Timber wolf,has-Eyes,14,30,14,130,24
+Carp,has-Eyes,13,29,13.44827586,130,32
+Viper,has-Eyes,8,30,8,130,27
+Turbot,has-Eyes,14,30,14,130,16
+goose,has-Eyes,8,30,8,130,17
+moth,has-Eyes,8,29,8.275862069,130,19
+Viper,has-Eyes,6,29,6.206896552,130,27
+Cock,has-Eyes,9,30,9,130,20
+Dog,has-Eyes,9,29,9.310344828,130,22
+Siberian Husky,has-Eyes,15,31,14.51612903,130,19
+Seagull,has-Eyes,8,30,8,130,16
+Sea snake,has-Eyes,7,30,7,130,18
+Otarriinae,has-Eyes,12,30,12,130,16
+panther,has-Eyes,9,29,9.310344828,130,20
+black swan,has-Eyes,6,30,6,130,17
+Monkey,has-Eyes,8,29,8.275862069,130,29
+monkey,has-Eyes,9,30,9,130,29
+fox,has-Eyes,8,30,8,130,17
+Raccoons,has-Eyes,11,30,11,130,20
+Crucian carp,has-Eyes,9,30,9,130,17
+Rat,has-Eyes,12,30,12,130,21
+whale,has-Eyes,10,33,9.090909091,130,18
+Koala,has-Eyes,11,30,11,130,18
+Guppy,has-Eyes,8,28,8.571428571,130,17
+Dinosaur,has-Eyes,9,30,9,130,17
+The Dachshund,has-Eyes,10,29,10.34482759,130,19
+wolf,has-Eyes,8,29,8.275862069,130,22
+tiger,has-Eyes,7,31,6.774193548,130,23
+mouse,has-Eyes,12,30,12,130,25
+carp,has-Eyes,9,30,9,130,32
+Cheetah,has-Eyes,8,30,8,130,25
+Totoro,has-Eyes,10,29,10.34482759,130,16
+mule,has-Eyes,9,30,9,130,16
+Python,has-Eyes,16,47,10.21276596,130,30
+Yak,has-Eyes,6,30,6,130,18
+Elk,has-Eyes,12,30,12,130,19
+The sperm whale,has-Eyes,7,30,7,130,19
+Hen,has-Eyes,8,30,8,130,18
+Ewes,has-Eyes,10,30,10,130,21
+cattle,has-Eyes,16,31,15.48387097,130,31
+penguin,has-Eyes,13,31,12.58064516,130,17
+snake,has-Eyes,8,31,7.741935484,130,19
+lion,has-Eyes,11,30,11,130,23
+rat,has-Eyes,9,30,9,130,21
+Chow Chow,has-Eyes,9,30,9,130,16
+Swan,has-Eyes,7,31,6.774193548,130,18
+Vulture,has-Eyes,9,28,9.642857143,130,16
+rabbit,has-Eyes,10,30,10,130,35
+Rabbit,has-Eyes,13,30,13,130,35
+ostrich,has-Eyes,10,30,10,130,16
+lizard,has-Eyes,20,50,12,130,30
+cricket,has-Eyes,12,59,6.101694915,130,24
+chimpanzee,has-Eyes,8,30,8,130,18
+panda,has-Eyes,11,29,11.37931034,130,23
+mole,has-Eyes,8,30,8,130,16
+swallow,has-Eyes,8,31,7.741935484,130,17
+Alpaca,has-Eyes,8,30,8,130,21
+pheasant,has-Eyes,8,29,8.275862069,130,16
+hare,has-Eyes,8,30,8,130,21
+Bungarus multicinctus,has-Eyes,9,29,9.310344828,130,18
+fish,has-Eyes,13,30,13,130,16
+grasshopper,has-Eyes,9,30,9,130,17
+Robins,has-Eyes,6,29,6.206896552,130,17
+spider,has-Eyes,7,30,7,130,17
+Glass,has-many colors,6,30,6,123,19
+Jujube,has-many colors,6,30,6,123,27
+seaweed,has-many colors,6,29,6.206896552,123,29
+Lotus,has-many colors,6,30,6,123,37
+Chrysanthemum,has-many colors,11,31,10.64516129,123,19
+Guppy,has-many colors,11,28,11.78571429,123,17
+babysbreath,has-many colors,7,29,7.24137931,123,16
+Grape,has-many colors,7,31,6.774193548,123,20
+Mulberry,has-many colors,6,30,6,123,17
+pot,has-many colors,7,29,7.24137931,123,16
+tulips,has-many colors,7,31,6.774193548,123,17
+silver birch,has-leaves,15,30,15,118,19
+silver birch,has-leaves,8,30,8,118,19
+white-barked pine,has-leaves,9,30,9,118,16
+white-barked pine,has-leaves,9,30,9,118,16
+Cypress,has-leaves,14,28,15,118,16
+Cypress,has-leaves,9,28,9.642857143,118,16
+Dionaea muscipula,has-leaves,19,30,19,118,16
+Daisy,has-leaves,10,29,10.34482759,118,16
+Scallion,has-leaves,15,30,15,118,17
+tomato,has-leaves,6,30,6,118,17
+Cabbage,has-leaves,17,30,17,118,29
+olive,has-leaves,8,31,7.741935484,118,27
+Olive,has-leaves,23,29,23.79310345,118,27
+shrub,has-leaves,20,30,20,118,17
+seaweed,has-leaves,12,30,12,118,29
+seaweed,has-leaves,6,29,6.206896552,118,29
+Lotus,has-leaves,8,30,8,118,37
+Cauliflower,has-leaves,18,30,18,118,17
+birch,has-leaves,18,30,18,118,16
+Honeysuckle,has-leaves,11,30,11,118,20
+Chrysanthemum,has-leaves,9,31,8.709677419,118,19
+Cabbage,has-leaves,16,30,16,118,29
+Sunflower,has-leaves,7,29,7.24137931,118,30
+Lotus,has-leaves,7,30,7,118,37
+babysbreath,has-leaves,11,29,11.37931034,118,16
+Loquat,has-leaves,6,30,6,118,19
+Metasequoia,has-leaves,24,30,24,118,19
+Lettuce,has-leaves,20,31,19.35483871,118,33
+Broccoli,has-leaves,11,30,11,118,16
+coriander,has-leaves,19,30,19,118,17
+Sunflower,has-leaves,17,31,16.4516129,118,30
+A variety of Chinese cabbage,has-leaves,26,30,26,118,17
+Lettuce,has-leaves,22,30,22,118,33
+tulips,has-leaves,12,31,11.61290323,118,17
+Bus,need-electricity,6,29,6.206896552,110,28
+Refrigerator,need-electricity,26,31,25.16129032,110,18
+Refrigerator,need-electricity,29,30,29,110,18
+Clock,need-electricity,11,30,11,110,22
+mouse,need-electricity,14,30,14,110,25
+clock,need-electricity,12,29,12.4137931,110,22
+silver birch,is-white,8,30,8,108,19
+white-barked pine,is-white,7,30,7,108,16
+zebra,is-white,14,28,15,108,25
+Persian cat,is-white,8,29,8.275862069,108,18
+Scallion,is-white,7,30,7,108,17
+garlic,is-white,10,30,10,108,16
+Soybean Milk,is-white,12,29,12.4137931,108,16
+goose,is-white,16,30,16,108,17
+dove,is-white,7,30,7,108,16
+Seagull,is-white,8,30,8,108,16
+Lotus,is-white,7,30,7,108,37
+Cauliflower,is-white,16,30,16,108,17
+birch,is-white,6,30,6,108,16
+litchi,is-white,7,31,6.774193548,108,17
+babysbreath,is-white,7,29,7.24137931,108,16
+Ewes,is-white,6,30,6,108,21
+penguin,is-white,8,31,7.741935484,108,17
+Swan,is-white,12,31,11.61290323,108,18
+rabbit,is-white,7,30,7,108,35
+Rabbit,is-white,10,30,10,108,35
+A variety of Chinese cabbage,is-white,8,30,8,108,17
+panda,is-white,11,29,11.37931034,108,23
+duck,is-white,6,29,6.206896552,108,17
+Alpaca,is-white,6,30,6,108,21
+Coconut,is-white,6,30,6,108,18
+trousers,is-Clothing,13,30,13,107,18
+trousers,is-Clothing,9,30,9,107,18
+leather jacket,is-Clothing,23,30,23,107,16
+leather jacket,is-Clothing,6,30,6,107,16
+trousers,is-Clothing,13,30,13,107,18
+trousers,is-Clothing,9,30,9,107,18
+silver birch,can-View,12,30,12,98,19
+white-barked pine,can-View,9,30,9,98,16
+Cypress,is-Green,12,28,12.85714286,98,16
+Cypress,can-View,9,28,9.642857143,98,16
+Dionaea muscipula,is-Green,12,30,12,98,16
+Dionaea muscipula,can-View,6,30,6,98,16
+Daisy,can-View,15,29,15.51724138,98,16
+Scallion,is-Green,16,30,16,98,17
+Watermelon,is-Green,10,31,9.677419355,98,36
+Turbot,can-View,8,30,8,98,16
+African elephant,can-View,8,31,7.741935484,98,19
+Cabbage,is-Green,12,30,12,98,29
+olive,is-Green,11,31,10.64516129,98,27
+Olive,is-Green,7,29,7.24137931,98,27
+shrub,can-View,9,30,9,98,17
+shrub,is-Green,7,30,7,98,17
+Hami melon,is-Green,7,30,7,98,17
+seaweed,is-Green,18,30,18,98,29
+Seaweed,is-Green,9,29,9.310344828,98,29
+seaweed,is-Green,8,29,8.275862069,98,29
+Lotus,can-View,27,30,27,98,37
+black swan,can-View,8,30,8,98,17
+Cucurbit,is-Green,13,30,13,98,21
+birch,can-View,6,30,6,98,16
+cucumber,is-Green,19,30,19,98,21
+Chrysanthemum,can-View,22,31,21.29032258,98,19
+Cabbage,is-Green,14,30,14,98,29
+Koala,can-View,9,30,9,98,18
+Guppy,can-View,22,28,23.57142857,98,17
+Sunflower,can-View,13,29,13.44827586,98,30
+carp,can-View,7,30,7,98,32
+Lotus,can-View,27,30,27,98,37
+babysbreath,can-View,16,29,16.55172414,98,16
+Soybean,is-Green,18,29,18.62068966,98,26
+kiwifruit,is-Green,9,30,9,98,17
+Grape,is-Green,7,31,6.774193548,98,20
+Jellyfish,can-View,9,30,9,98,29
+Metasequoia,can-View,17,30,17,98,19
+Metasequoia,is-Green,9,30,9,98,19
+Swan,can-View,12,31,11.61290323,98,18
+ostrich,can-View,6,30,6,98,16
+Lettuce,is-Green,14,31,13.5483871,98,33
+watermelon,is-Green,11,31,10.64516129,98,36
+Broccoli,is-Green,19,30,19,98,16
+lizard,is-Green,8,50,4.8,98,30
+cricket,is-Green,9,59,4.576271186,98,24
+coriander,is-Green,13,30,13,98,17
+Sunflower,can-View,14,31,13.5483871,98,30
+A variety of Chinese cabbage,is-Green,14,30,14,98,17
+Lettuce,is-Green,22,30,22,98,33
+fish,can-View,6,30,6,98,16
+tulips,can-View,27,31,26.12903226,98,17
+grasshopper,is-Green,10,30,10,98,17
+leopard,has-Skin,8,30,8,97,40
+soybean,has-skin,6,30,6,97,26
+garlic,has-skin,6,30,6,97,16
+Jujube,has-skin,6,30,6,97,27
+Watermelon,has-skin,10,31,9.677419355,97,36
+tomato,has-skin,12,30,12,97,17
+citrus,has-skin,18,29,18.62068966,97,17
+olive,has-skin,6,31,5.806451613,97,27
+Hami melon,has-skin,15,30,15,97,17
+Cucurbit,has-skin,11,30,11,97,21
+cucumber,has-skin,9,30,9,97,21
+Orange,has-skin,15,30,15,97,16
+Blueberry,has-skin,6,30,6,97,16
+wolf,has-Skin,6,29,6.206896552,97,22
+tiger,has-Skin,6,31,5.806451613,97,23
+mouse,has-Skin,6,30,6,97,25
+litchi,has-skin,7,31,6.774193548,97,17
+Cheetah,has-Skin,10,30,10,97,25
+Durian,has-skin,6,30,6,97,16
+Python,has-Skin,8,47,5.106382979,97,30
+Soybean,has-skin,6,29,6.206896552,97,26
+kiwifruit,has-skin,24,30,24,97,17
+honey peach,has-skin,12,30,12,97,28
+lemon,has-skin,17,30,17,97,16
+Loquat,has-skin,13,30,13,97,19
+Grape,has-skin,11,31,10.64516129,97,20
+Hawthorn,has-skin,16,31,15.48387097,97,17
+snake,has-skin,9,31,8.709677419,97,19
+Honey peach,has-skin,13,30,13,97,28
+Peach,has-skin,18,30,18,97,17
+rabbit,has-Skin,6,30,6,97,35
+Lettuce,has-skin,7,31,6.774193548,97,33
+watermelon,has-skin,16,31,15.48387097,97,36
+Tomatoes,has-skin,14,31,13.5483871,97,22
+lizard,has-Skin,6,50,3.6,97,30
+onion,has-skin,10,30,10,97,17
+Cherry,has-skin,10,30,10,97,17
+grapefruit,has-skin,19,30,19,97,17
+Jujube,has-skin,9,30,9,97,27
+trousers,can-Wear,16,30,16,95,18
+leather jacket,can-Wear,15,30,15,95,16
+gym shoes,can-Wear,20,30,20,95,16
+gym shoes,can-Wear,10,29,10.34482759,95,16
+trousers,can-Wear,17,30,17,95,18
+Jujube,is-Sweet,11,30,11,93,27
+citrus,is-Sweet,11,29,11.37931034,93,17
+Hami melon,is-Sweet,21,30,21,93,17
+Orange,is-Sweet,10,30,10,93,16
+Blueberry,is-Sweet,15,30,15,93,16
+litchi,is-Sweet,11,31,10.64516129,93,17
+kiwifruit,is-Sweet,9,30,9,93,17
+honey peach,is-Sweet,9,30,9,93,28
+Loquat,is-Sweet,6,30,6,93,19
+Grape,is-Sweet,13,31,12.58064516,93,20
+Mulberry,is-Sweet,15,30,15,93,17
+Honey peach,is-Sweet,19,30,19,93,28
+Peach,is-Sweet,12,30,12,93,17
+watermelon,is-Sweet,11,31,10.64516129,93,36
+Tomatoes,is-Sweet,8,31,7.741935484,93,22
+Cherry,is-Sweet,11,30,11,93,17
+grapefruit,is-Sweet,10,30,10,93,17
+Jujube,is-Sweet,9,30,9,93,27
+Tyrannosaurus Rex,has-mouth,7,28,7.5,91,16
+zebra,has-mouth,7,28,7.5,91,25
+leopard,has-mouth,10,30,10,91,40
+Timber wolf,has-mouth,8,30,8,91,24
+Carp,has-mouth,6,29,6.206896552,91,32
+Turbot,has-mouth,8,30,8,91,16
+goose,has-mouth,15,30,15,91,17
+African elephant,has-mouth,7,31,6.774193548,91,19
+dove,has-mouth,11,30,11,91,16
+Cock,has-mouth,12,30,12,91,20
+Dog,has-mouth,9,29,9.310344828,91,22
+Siberian Husky,has-mouth,15,31,14.51612903,91,19
+Seagull,has-mouth,18,30,18,91,16
+Sea snake,has-mouth,6,30,6,91,18
+panther,has-mouth,7,29,7.24137931,91,20
+black swan,has-mouth,6,30,6,91,17
+Monkey,has-mouth,7,29,7.24137931,91,29
+fox,has-mouth,7,30,7,91,17
+Raccoons,has-mouth,8,30,8,91,20
+whale,has-mouth,6,33,5.454545455,91,18
+Koala,has-mouth,6,30,6,91,18
+Dinosaur,has-mouth,6,30,6,91,17
+The Dachshund,has-mouth,14,29,14.48275862,91,19
+tiger,has-mouth,9,31,8.709677419,91,23
+mouse,has-mouth,10,30,10,91,25
+Cheetah,has-mouth,8,30,8,91,25
+hound,has-mouth,8,30,8,91,21
+mule,has-mouth,11,30,11,91,16
+Leech,has-mouth,6,29,6.206896552,91,27
+Python,has-mouth,9,47,5.744680851,91,30
+Elk,has-mouth,7,30,7,91,19
+Hen,has-mouth,12,30,12,91,18
+Ewes,has-mouth,11,30,11,91,21
+cattle,has-mouth,9,31,8.709677419,91,31
+penguin,has-mouth,11,31,10.64516129,91,17
+Squab,has-mouth,8,30,8,91,16
+snake,has-mouth,8,31,7.741935484,91,19
+lion,has-mouth,9,30,9,91,23
+rat,has-mouth,8,30,8,91,21
+Chow Chow,has-mouth,7,30,7,91,16
+Swan,has-mouth,12,31,11.61290323,91,18
+Vulture,has-mouth,11,28,11.78571429,91,16
+ostrich,has-mouth,8,30,8,91,16
+lizard,has-mouth,12,50,7.2,91,30
+cricket,has-mouth,8,59,4.06779661,91,24
+chimpanzee,has-mouth,8,30,8,91,18
+panda,has-mouth,7,29,7.24137931,91,23
+duck,has-mouth,10,29,10.34482759,91,17
+mole,has-mouth,10,30,10,91,16
+swallow,has-mouth,12,31,11.61290323,91,17
+Alpaca,has-mouth,8,30,8,91,21
+pheasant,has-mouth,11,29,11.37931034,91,16
+hare,has-mouth,6,30,6,91,21
+fish,has-mouth,7,30,7,91,16
+Robins,has-mouth,14,29,14.48275862,91,17
+Cushion,has-Cloth,6,31,5.806451613,87,17
+trousers,has-Cloth,12,30,12,87,18
+belt,has-Cloth,6,30,6,87,22
+trousers,has-Cloth,14,30,14,87,18
+Cushion,has-Cloth,8,28,8.571428571,87,17
+Tyrannosaurus Rex,has-tail,13,28,13.92857143,85,16
+zebra,has-tail,10,28,10.71428571,85,25
+leopard,has-tail,12,30,12,85,40
+Persian cat,has-tail,13,29,13.44827586,85,18
+Timber wolf,has-tail,12,30,12,85,24
+Carp,has-tail,14,29,14.48275862,85,32
+Viper,has-tail,8,30,8,85,27
+Turbot,has-tail,11,30,11,85,16
+African elephant,has-tail,7,31,6.774193548,85,19
+Viper,has-tail,7,29,7.24137931,85,27
+Cock,has-tail,7,30,7,85,20
+Dog,has-tail,10,29,10.34482759,85,22
+Siberian Husky,has-tail,17,31,16.4516129,85,19
+Sea snake,has-tail,7,30,7,85,18
+Otarriinae,has-tail,12,30,12,85,16
+panther,has-tail,12,29,12.4137931,85,20
+Monkey,has-tail,15,29,15.51724138,85,29
+monkey,has-tail,17,30,17,85,29
+fox,has-tail,17,30,17,85,17
+Raccoons,has-tail,10,30,10,85,20
+cattle,has-tail,10,30,10,85,31
+Crucian carp,has-tail,15,30,15,85,17
+Rat,has-tail,21,30,21,85,21
+leopard,has-tail,6,30,6,85,40
+whale,has-tail,15,33,13.63636364,85,18
+Guppy,has-tail,11,28,11.78571429,85,17
+Dinosaur,has-tail,12,30,12,85,17
+The Dachshund,has-tail,11,29,11.37931034,85,19
+wolf,has-tail,7,29,7.24137931,85,22
+tiger,has-tail,11,31,10.64516129,85,23
+mouse,has-tail,21,30,21,85,25
+carp,has-tail,13,30,13,85,32
+Cheetah,has-tail,14,30,14,85,25
+hound,has-tail,9,30,9,85,21
+Totoro,has-tail,6,29,6.206896552,85,16
+mule,has-tail,17,30,17,85,16
+Python,has-tail,10,47,6.382978723,85,30
+Yak,has-tail,6,30,6,85,18
+The sperm whale,has-tail,13,30,13,85,19
+cattle,has-tail,13,31,12.58064516,85,31
+snake,has-tail,9,31,8.709677419,85,19
+lion,has-tail,15,30,15,85,23
+rat,has-tail,21,30,21,85,21
+Chow Chow,has-tail,7,30,7,85,16
+rabbit,has-tail,9,30,9,85,35
+Rabbit,has-tail,9,30,9,85,35
+lizard,has-tail,36,50,21.6,85,30
+chimpanzee,has-tail,8,30,8,85,18
+mole,has-tail,14,30,14,85,16
+swallow,has-tail,8,31,7.741935484,85,17
+Alpaca,has-tail,6,30,6,85,21
+hare,has-tail,6,30,6,85,21
+Bungarus multicinctus,has-tail,9,29,9.310344828,85,18
+fish,has-tail,19,30,19,85,16
+Knife,is-metal,9,30,9,84,25
+knife,is-metal,8,31,7.741935484,84,25
+nail,is-metal,8,29,8.275862069,84,17
+pot,is-metal,11,30,11,84,16
+Belt,is-metal,6,30,6,84,22
+silver birch,has-roots,13,30,13,80,19
+silver birch,has-roots,6,30,6,80,19
+white-barked pine,has-roots,7,30,7,80,16
+Cypress,has-roots,13,28,13.92857143,80,16
+Cypress,has-roots,9,28,9.642857143,80,16
+Dionaea muscipula,has-roots,12,30,12,80,16
+Scallion,has-roots,16,30,16,80,17
+Cabbage,has-roots,10,30,10,80,29
+Olive,has-roots,9,29,9.310344828,80,27
+shrub,has-roots,12,30,12,80,17
+seaweed,has-roots,6,30,6,80,29
+Lotus,has-roots,6,30,6,80,37
+Cauliflower,has-roots,7,30,7,80,17
+birch,has-roots,12,30,12,80,16
+Honeysuckle,has-roots,8,30,8,80,20
+Chrysanthemum,has-roots,8,31,7.741935484,80,19
+Cabbage,has-roots,8,30,8,80,29
+Lotus,has-roots,7,30,7,80,37
+Metasequoia,has-roots,14,30,14,80,19
+Lettuce,has-roots,8,31,7.741935484,80,33
+Broccoli,has-roots,6,30,6,80,16
+coriander,has-roots,9,30,9,80,17
+Sunflower,has-roots,8,31,7.741935484,80,30
+A variety of Chinese cabbage,has-roots,11,30,11,80,17
+Lettuce,has-roots,14,30,14,80,33
+tulips,has-roots,7,31,6.774193548,80,17
+trousers,has-many styles,8,30,8,79,18
+zebra,need-Protection,6,28,6.428571429,78,25
+leopard,need-Protection,7,30,7,78,40
+African elephant,need-Protection,8,31,7.741935484,78,19
+Otarriinae,need-Protection,8,30,8,78,16
+black swan,need-Protection,7,30,7,78,17
+Monkey,need-Protection,6,29,6.206896552,78,29
+monkey,need-Protection,6,30,6,78,29
+Raccoons,need-Protection,9,30,9,78,20
+whale,need-Protection,11,33,10,78,18
+Koala,need-Protection,8,30,8,78,18
+wolf,need-Protection,6,29,6.206896552,78,22
+tiger,need-Protection,8,31,7.741935484,78,23
+Cheetah,need-Protection,8,30,8,78,25
+Totoro,need-Protection,6,29,6.206896552,78,16
+Elk,need-Protection,8,30,8,78,19
+The sperm whale,need-Protection,7,30,7,78,19
+penguin,need-Protection,7,31,6.774193548,78,17
+lion,need-Protection,9,30,9,78,23
+Metasequoia,need-Protection,8,30,8,78,19
+Swan,need-Protection,11,31,10.64516129,78,18
+lizard,need-Protection,7,50,4.2,78,30
+panda,need-Protection,11,29,11.37931034,78,23
+Robins,need-Protection,6,29,6.206896552,78,17
+nail,need-Protection,8,30,8,78,17
+zebra,has-Hair,10,28,10.71428571,77,25
+leopard,has-Hair,11,30,11,77,40
+Persian cat,has-Hair,19,29,19.65517241,77,18
+Timber wolf,has-Hair,10,30,10,77,24
+Dog,has-Hair,9,29,9.310344828,77,22
+Siberian Husky,has-Hair,13,31,12.58064516,77,19
+Otarriinae,has-Hair,6,30,6,77,16
+panther,has-Hair,6,29,6.206896552,77,20
+Monkey,has-Hair,13,29,13.44827586,77,29
+monkey,has-Hair,12,30,12,77,29
+fox,has-Hair,13,30,13,77,17
+Raccoons,has-Hair,14,30,14,77,20
+Rat,has-Hair,8,30,8,77,21
+leopard,has-Hair,11,30,11,77,40
+Koala,has-Hair,13,30,13,77,18
+The Dachshund,has-Hair,6,29,6.206896552,77,19
+wolf,has-Hair,11,29,11.37931034,77,22
+tiger,has-Hair,12,31,11.61290323,77,23
+mouse,has-Hair,11,30,11,77,25
+Cheetah,has-Hair,11,30,11,77,25
+hound,has-Hair,9,30,9,77,21
+Totoro,has-Hair,13,29,13.44827586,77,16
+Soybean,has-Hair,12,29,12.4137931,77,26
+Yak,has-Hair,15,30,15,77,18
+kiwifruit,has-Hair,18,30,18,77,17
+honey peach,has-Hair,11,30,11,77,28
+Ewes,has-Hair,16,30,16,77,21
+penguin,has-Hair,8,31,7.741935484,77,17
+lion,has-Hair,18,30,18,77,23
+Honey peach,has-Hair,7,30,7,77,28
+Chow Chow,has-Hair,19,30,19,77,16
+Peach,has-Hair,10,30,10,77,17
+rabbit,has-Hair,11,30,11,77,35
+Rabbit,has-Hair,10,30,10,77,35
+chimpanzee,has-Hair,17,30,17,77,18
+panda,has-Hair,8,29,8.275862069,77,23
+mole,has-Hair,14,30,14,77,16
+Alpaca,has-Hair,19,30,19,77,21
+hare,has-Hair,14,30,14,77,21
+zebra,need-to sleep,6,28,6.428571429,73,25
+Persian cat,need-to sleep,8,29,8.275862069,73,18
+Timber wolf,need-to sleep,6,30,6,73,24
+goose,need-to sleep,6,30,6,73,17
+African elephant,need-to sleep,6,31,5.806451613,73,19
+dove,need-to sleep,8,30,8,73,16
+Cock,need-to sleep,6,30,6,73,20
+Dog,need-to sleep,10,29,10.34482759,73,22
+Siberian Husky,need-to sleep,6,31,5.806451613,73,19
+Seagull,need-to sleep,7,30,7,73,16
+panther,need-to sleep,12,29,12.4137931,73,20
+Monkey,need-to sleep,6,29,6.206896552,73,29
+fox,need-to sleep,6,30,6,73,17
+Raccoons,need-to sleep,9,30,9,73,20
+Rat,need-to sleep,6,30,6,73,21
+whale,need-to sleep,7,33,6.363636364,73,18
+Koala,need-to sleep,14,30,14,73,18
+The Dachshund,need-to sleep,9,29,9.310344828,73,19
+wolf,need-to sleep,7,29,7.24137931,73,22
+tiger,need-to sleep,7,31,6.774193548,73,23
+mouse,need-to sleep,7,30,7,73,25
+Cheetah,need-to sleep,7,30,7,73,25
+hound,need-to sleep,10,30,10,73,21
+Totoro,need-to sleep,10,29,10.34482759,73,16
+mule,need-to sleep,6,30,6,73,16
+Python,need-to sleep,8,47,5.106382979,73,30
+Yak,need-to sleep,6,30,6,73,18
+Elk,need-to sleep,7,30,7,73,19
+The sperm whale,need-to sleep,6,30,6,73,19
+Hen,need-to sleep,7,30,7,73,18
+Ewes,need-to sleep,8,30,8,73,21
+cattle,need-to sleep,6,31,5.806451613,73,31
+lion,need-to sleep,11,30,11,73,23
+rat,need-to sleep,9,30,9,73,21
+Chow Chow,need-to sleep,6,30,6,73,16
+Swan,need-to sleep,6,31,5.806451613,73,18
+Vulture,need-to sleep,10,28,10.71428571,73,16
+rabbit,need-to sleep,6,30,6,73,35
+Rabbit,need-to sleep,6,30,6,73,35
+lizard,need-to sleep,10,50,6,73,30
+chimpanzee,need-to sleep,9,30,9,73,18
+duck,need-to sleep,9,29,9.310344828,73,17
+mole,need-to sleep,8,30,8,73,16
+swallow,need-to sleep,7,31,6.774193548,73,17
+Alpaca,need-to sleep,8,30,8,73,21
+pheasant,need-to sleep,6,29,6.206896552,73,16
+hare,need-to sleep,9,30,9,73,21
+Bungarus multicinctus,need-to sleep,6,29,6.206896552,73,18
+grasshopper,need-to sleep,6,30,6,73,17
+glass,can-drink,12,30,12,69,19
+Soybean Milk,can-drink,21,29,21.72413793,69,16
+lemon,can-drink,6,30,6,69,16
+Coconut,can-drink,14,30,14,69,18
+Daisy,is-fragrant,10,29,10.34482759,66,16
+soybean,is-Round,9,30,9,66,26
+pot,is-Round,7,30,7,66,16
+Lotus,is-fragrant,7,30,7,66,37
+tyre,is-Round,35,54,19.44444444,66,17
+babysbreath,is-fragrant,7,29,7.24137931,66,16
+Loquat,is-Round,8,30,8,66,19
+Hawthorn,is-Round,6,31,5.806451613,66,17
+Honey peach,is-fragrant,7,30,7,66,28
+watermelon,is-Round,11,31,10.64516129,66,36
+Tomatoes,is-Round,6,31,5.806451613,66,22
+coriander,is-fragrant,9,30,9,66,17
+sausage,is-fragrant,8,31,7.741935484,66,18
+onion,is-Round,10,30,10,66,17
+Coconut,is-Round,8,30,8,66,18
+Cherry,is-Round,7,30,7,66,17
+grapefruit,is-Round,6,30,6,66,17
+tulips,is-fragrant,12,31,11.61290323,66,17
+glass,has-handle,9,30,9,58,19
+Knife,has-handle,20,30,20,58,25
+knife,has-handle,16,31,15.48387097,58,25
+pot,has-handle,11,30,11,58,16
+Tyrannosaurus Rex,has-limbs,11,28,11.78571429,57,16
+zebra,has-limbs,10,28,10.71428571,57,25
+leopard,has-limbs,15,30,15,57,40
+Persian cat,has-limbs,8,29,8.275862069,57,18
+soybean,has-Nutrition,6,30,6,57,26
+Timber wolf,has-limbs,8,30,8,57,24
+Soybean Milk,has-Nutrition,12,29,12.4137931,57,16
+African elephant,has-limbs,16,31,15.48387097,57,19
+Cabbage,has-Nutrition,8,30,8,57,29
+Dog,has-limbs,10,29,10.34482759,57,22
+Siberian Husky,has-limbs,11,31,10.64516129,57,19
+panther,has-limbs,7,29,7.24137931,57,20
+Monkey,has-limbs,10,29,10.34482759,57,29
+fox,has-limbs,7,30,7,57,17
+Cauliflower,has-Nutrition,7,30,7,57,17
+Raccoons,has-limbs,14,30,14,57,20
+cattle,has-limbs,9,30,9,57,31
+Rat,has-limbs,7,30,7,57,21
+leopard,has-limbs,12,30,12,57,40
+Koala,has-limbs,13,30,13,57,18
+Dinosaur,has-limbs,8,30,8,57,17
+The Dachshund,has-limbs,9,29,9.310344828,57,19
+wolf,has-limbs,12,29,12.4137931,57,22
+tiger,has-limbs,16,31,15.48387097,57,23
+mouse,has-limbs,9,30,9,57,25
+Cheetah,has-limbs,12,30,12,57,25
+hound,has-limbs,10,30,10,57,21
+mule,has-limbs,14,30,14,57,16
+Yak,has-limbs,11,30,11,57,18
+kiwifruit,has-Nutrition,6,30,6,57,17
+Elk,has-limbs,12,30,12,57,19
+Ewes,has-limbs,11,30,11,57,21
+cattle,has-limbs,12,31,11.61290323,57,31
+lion,has-limbs,10,30,10,57,23
+Chow Chow,has-limbs,7,30,7,57,16
+Broccoli,has-Nutrition,12,30,12,57,16
+lizard,has-limbs,20,50,12,57,30
+cricket,has-limbs,9,59,4.576271186,57,24
+A variety of Chinese cabbage,has-Nutrition,7,30,7,57,17
+chimpanzee,has-limbs,13,30,13,57,18
+panda,has-limbs,6,29,6.206896552,57,23
+Alpaca,has-limbs,8,30,8,57,21
+hare,has-limbs,6,30,6,57,21
+Lettuce,has-Nutrition,7,30,7,57,33
+Daisy,is-yellow,8,29,8.275862069,56,16
+soybean,is-yellow,13,30,13,56,26
+millet,is-yellow,11,30,11,56,17
+cattle,is-yellow,10,30,10,56,31
+Honeysuckle,is-yellow,8,30,8,56,20
+Orange,is-yellow,10,30,10,56,16
+Chrysanthemum,is-yellow,10,31,9.677419355,56,19
+Sunflower,is-yellow,11,29,11.37931034,56,30
+Durian,is-yellow,6,30,6,56,16
+lemon,is-yellow,19,30,19,56,16
+Loquat,is-yellow,14,30,14,56,19
+Sunflower,is-yellow,8,31,7.741935484,56,30
+millet,is-yellow,6,29,6.206896552,56,17
+grapefruit,is-yellow,8,30,8,56,17
+moth,can-fly,21,29,21.72413793,55,19
+dove,can-fly,27,30,27,55,16
+Seagull,can-fly,26,30,26,55,16
+black swan,can-fly,10,30,10,55,17
+Leech,can-fly,7,29,7.24137931,55,27
+Squab,can-fly,8,30,8,55,16
+Swan,can-fly,15,31,14.51612903,55,18
+Vulture,can-fly,20,28,21.42857143,55,16
+swallow,can-fly,26,31,25.16129032,55,17
+pheasant,can-fly,13,29,13.44827586,55,16
+grasshopper,can-fly,10,30,10,55,17
+Robins,can-fly,19,29,19.65517241,55,17
+Scallion,is-long,6,30,6,54,17
+Jujube,need-harvest,7,30,7,54,27
+Carp,is-long,7,29,7.24137931,54,32
+Watermelon,need-harvest,7,31,6.774193548,54,36
+citrus,need-harvest,6,29,6.206896552,54,17
+Hami melon,need-harvest,6,30,6,54,17
+Sea snake,is-long,8,30,8,54,18
+Cucurbit,need-harvest,8,30,8,54,21
+cucumber,is-long,11,30,11,54,21
+cucumber,need-harvest,7,30,7,54,21
+Honeysuckle,need-harvest,7,30,7,54,20
+Orange,need-harvest,6,30,6,54,16
+Chrysanthemum,need-harvest,6,31,5.806451613,54,19
+Sausage,is-long,6,30,6,54,18
+Python,is-long,12,47,7.659574468,54,30
+kiwifruit,need-harvest,6,30,6,54,17
+Belt,is-long,7,30,7,54,22
+Loquat,need-harvest,8,30,8,54,19
+Grape,need-harvest,9,31,8.709677419,54,20
+Mulberry,need-harvest,8,30,8,54,17
+Hawthorn,need-harvest,15,31,14.51612903,54,17
+snake,is-long,9,31,8.709677419,54,19
+Peach,need-harvest,7,30,7,54,17
+watermelon,need-harvest,7,31,6.774193548,54,36
+Tomatoes,need-harvest,9,31,8.709677419,54,22
+belt,is-long,10,30,10,54,22
+Coconut,need-harvest,6,30,6,54,18
+Bungarus multicinctus,is-long,6,29,6.206896552,54,18
+Lettuce,is-long,6,30,6,54,33
+Jujube,need-harvest,10,30,10,54,27
+trousers,is-long,6,30,6,54,18
+Jujube,is-Fruit,9,30,9,52,27
+goose,has-Wings,14,30,14,52,17
+moth,has-Wings,25,29,25.86206897,52,19
+moth,is-Insects,22,29,22.75862069,52,19
+moth,is-Insects,14,29,14.48275862,52,19
+tomato,is-Fruit,6,30,6,52,17
+citrus,is-Fruit,23,29,23.79310345,52,17
+dove,has-Wings,20,30,20,52,16
+Cock,has-Wings,8,30,8,52,20
+Hami melon,is-Fruit,24,30,24,52,17
+Seagull,has-Wings,25,30,25,52,16
+black swan,has-Wings,14,30,14,52,17
+Orange,is-Fruit,22,30,22,52,16
+Blueberry,is-Fruit,22,30,22,52,16
+litchi,is-Fruit,30,31,29.03225806,52,17
+Durian,is-Fruit,26,30,26,52,16
+Leech,is-Insects,13,29,13.44827586,52,27
+Leech,has-Wings,9,29,9.310344828,52,27
+Leech,is-Insects,8,29,8.275862069,52,27
+kiwifruit,is-Fruit,26,30,26,52,17
+honey peach,is-Fruit,28,30,28,52,28
+Hen,has-Wings,18,30,18,52,18
+lemon,is-Fruit,17,30,17,52,16
+Loquat,is-Fruit,21,30,21,52,19
+Grape,is-Fruit,31,31,30,52,20
+penguin,has-Wings,13,31,12.58064516,52,17
+Squab,has-Wings,22,30,22,52,16
+Mulberry,is-Fruit,15,30,15,52,17
+Hawthorn,is-Fruit,17,31,16.4516129,52,17
+Honey peach,is-Fruit,27,30,27,52,28
+Leech,is-Insects,6,28,6.428571429,52,27
+Peach,is-Fruit,29,30,29,52,17
+Swan,has-Wings,16,31,15.48387097,52,18
+Vulture,has-Wings,20,28,21.42857143,52,16
+ostrich,has-Wings,12,30,12,52,16
+watermelon,is-Fruit,27,31,26.12903226,52,36
+Tomatoes,is-Fruit,7,31,6.774193548,52,22
+cricket,is-Insects,42,59,21.3559322,52,24
+cricket,is-Insects,34,59,17.28813559,52,24
+cricket,has-Wings,10,59,5.084745763,52,24
+duck,has-Wings,7,29,7.24137931,52,17
+swallow,has-Wings,25,31,24.19354839,52,17
+Coconut,is-Fruit,20,30,20,52,18
+pheasant,has-Wings,16,29,16.55172414,52,16
+Cherry,is-Fruit,25,30,25,52,17
+grapefruit,is-Fruit,23,30,23,52,17
+Jujube,is-Fruit,12,30,12,52,27
+grasshopper,is-Insects,26,30,26,52,17
+grasshopper,is-Insects,18,30,18,52,17
+grasshopper,has-Wings,14,30,14,52,17
+Robins,has-Wings,17,29,17.5862069,52,17
+spider,is-Insects,16,30,16,52,17
+spider,is-Insects,13,30,13,52,17
+moth,is-Insects,18,28,19.28571429,52,19
+Jujube,is-red,22,30,22,51,27
+tomato,is-red,23,30,23,51,17
+Sausage,is-red,6,30,6,51,18
+litchi,is-red,8,31,7.741935484,51,17
+Bacon,is-red,7,31,6.774193548,51,18
+Hawthorn,is-red,22,31,21.29032258,51,17
+Tomatoes,is-red,23,31,22.25806452,51,22
+Cherry,is-red,23,30,23,51,17
+grapefruit,is-red,7,30,7,51,17
+Jujube,is-red,14,30,14,51,27
+Scallion,can-stir-fry,6,30,6,50,17
+garlic,can-stir-fry,6,30,6,50,16
+Watermelon,can-Stir-fry,12,31,11.61290323,50,36
+tomato,can-Stir-fry,10,30,10,50,17
+Cabbage,can-Stir-fry,10,30,10,50,29
+pot,can-stir-fry,15,30,15,50,16
+Cucurbit,can-Stir-fry,9,30,9,50,21
+Cauliflower,can-Stir-fry,15,30,15,50,17
+cucumber,can-Stir-fry,10,30,10,50,21
+egg,can-Stir-fry,7,31,6.774193548,50,17
+Sausage,can-Stir-fry,8,30,8,50,18
+Bacon,can-Stir-fry,6,30,6,50,18
+Lettuce,can-Stir-fry,8,31,7.741935484,50,33
+Tomatoes,can-Stir-fry,10,31,9.677419355,50,22
+Broccoli,can-Stir-fry,10,30,10,50,16
+sausage,can-Stir-fry,9,31,8.709677419,50,18
+A variety of Chinese cabbage,can-Stir-fry,8,30,8,50,17
+onion,can-Stir-fry,12,30,12,50,17
+Lettuce,can-Stir-fry,13,30,13,50,33
+Tyrannosaurus Rex,is-Meat,13,28,13.92857143,49,16
+zebra,is-Black,15,28,16.07142857,49,25
+leopard,is-Meat,8,30,8,49,40
+Timber wolf,is-Meat,7,30,7,49,24
+panther,is-Black,14,29,14.48275862,49,20
+black swan,is-Black,18,30,18,49,17
+fox,is-Meat,9,30,9,49,17
+leopard,is-Meat,13,30,13,49,40
+Dinosaur,is-Meat,8,30,8,49,17
+Sausage,is-meat,19,30,19,49,18
+Bacon,is-meat,20,30,20,49,18
+wolf,is-Meat,9,29,9.310344828,49,22
+tiger,is-Meat,12,31,11.61290323,49,23
+hound,is-Meat,7,30,7,49,21
+tyre,is-Black,11,54,6.111111111,49,17
+Python,is-Meat,8,47,5.106382979,49,30
+Bacon,is-meat,22,31,21.29032258,49,18
+penguin,is-Black,8,31,7.741935484,49,17
+Mulberry,is-Black,8,30,8,49,17
+lion,is-Meat,16,30,16,49,23
+Chow Chow,is-Meat,6,30,6,49,16
+Swan,is-Black,6,31,5.806451613,49,18
+Vulture,is-Meat,7,28,7.5,49,16
+sausage,is-meat,28,31,27.09677419,49,18
+chimpanzee,is-Black,7,30,7,49,18
+panda,is-Black,12,29,12.4137931,49,23
+swallow,is-Black,11,31,10.64516129,49,17
+Soybean Milk,has-Water,10,29,10.34482759,48,16
+Carp,can-swim,9,29,9.310344828,47,32
+Turbot,can-swim,7,30,7,47,16
+goose,can-swim,7,30,7,47,17
+Sea snake,can-swim,15,30,15,47,18
+Otarriinae,can-swim,19,30,19,47,16
+Jellyfish,can-swim,8,31,7.741935484,47,29
+black swan,can-swim,15,30,15,47,17
+Crucian carp,can-swim,8,30,8,47,17
+whale,can-swim,18,33,16.36363636,47,18
+Guppy,can-swim,13,28,13.92857143,47,17
+carp,can-swim,8,30,8,47,32
+The sperm whale,can-swim,17,30,17,47,19
+penguin,can-swim,14,31,13.5483871,47,17
+Jellyfish,can-swim,16,30,16,47,29
+Swan,can-swim,11,31,10.64516129,47,18
+duck,can-swim,14,29,14.48275862,47,17
+fish,can-swim,13,30,13,47,16
+Seaweed,is-delicious,6,29,6.206896552,46,29
+Durian,is-delicious,6,30,6,46,16
+Scallion,is-Vegetables,8,30,8,45,17
+Watermelon,is-Vegetables,21,31,20.32258065,45,36
+tomato,is-Vegetables,17,30,17,45,17
+Cabbage,is-Vegetables,22,30,22,45,29
+Cucurbit,is-Vegetables,15,30,15,45,21
+Cauliflower,is-Vegetables,24,30,24,45,17
+cucumber,is-Vegetables,23,30,23,45,21
+Cabbage,is-Vegetables,26,30,26,45,29
+Lettuce,is-Vegetables,16,31,15.48387097,45,33
+Tomatoes,is-Vegetables,25,31,24.19354839,45,22
+Broccoli,is-Vegetables,25,30,25,45,16
+coriander,is-Vegetables,17,30,17,45,17
+A variety of Chinese cabbage,is-Vegetables,22,30,22,45,17
+onion,is-Vegetables,21,30,21,45,17
+Lettuce,is-Vegetables,22,30,22,45,33
+Dionaea muscipula,has-Stem,12,30,12,44,16
+Daisy,is-Flower,23,29,23.79310345,44,16
+Daisy,has-Stem,6,29,6.206896552,44,16
+Scallion,has-Stem,10,30,10,44,17
+Cabbage,has-Stem,8,30,8,44,29
+shrub,has-Stem,7,30,7,44,17
+Lotus,is-Flower,20,30,20,44,37
+Lotus,has-Stem,7,30,7,44,37
+Cauliflower,has-Stem,8,30,8,44,17
+Honeysuckle,is-Flower,15,30,15,44,20
+Honeysuckle,has-Stem,6,30,6,44,20
+Chrysanthemum,is-Flower,24,31,23.22580645,44,19
+Chrysanthemum,has-Stem,7,31,6.774193548,44,19
+Sunflower,is-Flower,12,29,12.4137931,44,30
+Lotus,is-Flower,28,30,28,44,37
+Lotus,has-Stem,7,30,7,44,37
+babysbreath,is-Flower,19,29,19.65517241,44,16
+babysbreath,has-Stem,7,29,7.24137931,44,16
+Lettuce,has-Stem,12,31,11.61290323,44,33
+Broccoli,has-Stem,6,30,6,44,16
+coriander,has-Stem,7,30,7,44,17
+Sunflower,is-Flower,22,31,21.29032258,44,30
+Sunflower,has-Stem,12,31,11.61290323,44,30
+Lettuce,has-Stem,13,30,13,44,33
+tulips,is-Flower,31,31,30,44,17
+tulips,has-Stem,6,31,5.806451613,44,17
+tomato,has-Pulp,7,30,7,43,17
+citrus,has-Pulp,9,29,9.310344828,43,17
+Hami melon,has-Pulp,10,30,10,43,17
+Orange,has-Pulp,12,30,12,43,16
+Blueberry,has-Pulp,6,30,6,43,16
+litchi,has-Pulp,14,31,13.5483871,43,17
+Durian,has-Pulp,11,30,11,43,16
+kiwifruit,has-Pulp,16,30,16,43,17
+honey peach,has-Pulp,9,30,9,43,28
+lemon,has-Pulp,12,30,12,43,16
+Loquat,has-Pulp,15,30,15,43,19
+Grape,has-Pulp,11,31,10.64516129,43,20
+Hawthorn,has-Pulp,11,31,10.64516129,43,17
+Honey peach,has-Pulp,15,30,15,43,28
+Peach,has-Pulp,16,30,16,43,17
+watermelon,has-Pulp,9,31,8.709677419,43,36
+Tomatoes,has-Pulp,6,31,5.806451613,43,22
+Coconut,has-Pulp,8,30,8,43,18
+Cherry,has-Pulp,11,30,11,43,17
+grapefruit,has-Pulp,14,30,14,43,17
+Jujube,has-Pulp,9,30,9,43,27
+millet,has-shell,8,30,8,42,17
+egg,has-shell,12,31,11.61290323,42,17
+trousers,can-Keep warm,11,30,11,42,18
+litchi,has-shell,16,31,15.48387097,42,17
+Durian,has-shell,7,30,7,42,16
+Snail,has-shell,25,30,25,42,20
+Oysters,has-shell,28,31,27.09677419,42,24
+leather jacket,can-Keep warm,10,30,10,42,16
+Oysters,has-shell,24,30,24,42,24
+snail,has-shell,26,30,26,42,20
+Coconut,has-shell,16,30,16,42,18
+trousers,can-Keep warm,16,30,16,42,18
+Siberian Husky,can-Entertain,7,31,6.774193548,41,19
+Bus,is-Big,7,29,7.24137931,40,28
+Tyrannosaurus Rex,is-Big,12,28,12.85714286,40,16
+Tyrannosaurus Rex,can-Hunt,7,28,7.5,40,16
+silver birch,is-Big,9,30,9,40,19
+leopard,can-Hunt,21,30,21,40,40
+Dionaea muscipula,can-Hunt,17,30,17,40,16
+Timber wolf,can-Hunt,9,30,9,40,24
+Carp,is-Haili,10,29,10.34482759,40,32
+Viper,can-Hunt,6,30,6,40,27
+Turbot,is-Haili,7,30,7,40,16
+Touring car,has-Wheel,12,30,12,40,18
+Touring car,is-Big,7,30,7,40,18
+African elephant,is-Big,12,31,11.61290323,40,19
+Viper,can-Hunt,8,29,8.275862069,40,27
+Bus,has-Wheel,13,30,13,40,28
+seaweed,is-Haili,9,30,9,40,29
+Seagull,can-Hunt,10,30,10,40,16
+Sea snake,is-Haili,10,30,10,40,18
+Otarriinae,can-Hunt,8,30,8,40,16
+Otarriinae,is-Haili,8,30,8,40,16
+Seaweed,is-Haili,8,29,8.275862069,40,29
+Jellyfish,is-Haili,17,31,16.4516129,40,29
+panther,can-Hunt,17,29,17.5862069,40,20
+fox,can-Hunt,7,30,7,40,17
+leopard,can-Hunt,16,30,16,40,40
+whale,is-Haili,13,33,11.81818182,40,18
+whale,is-Big,12,33,10.90909091,40,18
+whale,can-Hunt,8,33,7.272727273,40,18
+Dinosaur,is-Big,11,30,11,40,17
+Dinosaur,can-Hunt,7,30,7,40,17
+wolf,can-Hunt,15,29,15.51724138,40,22
+tiger,can-Hunt,17,31,16.4516129,40,23
+Cheetah,can-Hunt,24,30,24,40,25
+hound,can-Hunt,20,30,20,40,21
+Snail,is-Haili,6,30,6,40,20
+carriage,has-Wheel,20,30,20,40,17
+Python,can-Hunt,9,47,5.744680851,40,30
+Python,is-Big,6,47,3.829787234,40,30
+The sperm whale,is-Big,7,30,7,40,19
+The sperm whale,is-Haili,7,30,7,40,19
+Oysters,is-Haili,21,31,20.32258065,40,24
+penguin,can-Hunt,7,31,6.774193548,40,17
+Oysters,is-Haili,24,30,24,40,24
+lion,can-Hunt,15,30,15,40,23
+mouse,has-wheel,6,30,6,40,25
+Jellyfish,is-Haili,12,30,12,40,29
+Metasequoia,is-Big,6,30,6,40,19
+Carriage,has-Wheel,24,30,24,40,17
+Vulture,can-Hunt,8,28,8.571428571,40,16
+ostrich,is-Big,11,30,11,40,16
+lizard,can-Hunt,9,50,5.4,40,30
+mole,can-Hunt,6,30,6,40,16
+Bungarus multicinctus,can-Hunt,7,29,7.24137931,40,18
+spider,can-Hunt,7,30,7,40,17
+Bus,other-Transportation,16,29,16.55172414,39,28
+Touring car,other-Transportation,7,30,7,39,18
+Bus,other-Transportation,17,30,17,39,28
+Cushion,is-Soft,11,31,10.64516129,39,17
+carriage,other-Transportation,19,30,19,39,17
+Oysters,is-Soft,9,31,8.709677419,39,24
+Jellyfish,is-Soft,7,30,7,39,29
+Leech,is-Soft,8,28,8.571428571,39,27
+Carriage,other-Transportation,13,30,13,39,17
+snail,is-Soft,11,30,11,39,20
+Cushion,is-Soft,13,28,13.92857143,39,17
+Tyrannosaurus Rex,has-teeth,17,28,18.21428571,37,16
+leopard,has-teeth,15,30,15,37,40
+Glass,is-hard,7,30,7,37,19
+Timber wolf,has-teeth,14,30,14,37,24
+Soybean Milk,is-liquid,11,29,11.37931034,37,16
+Viper,has-teeth,16,30,16,37,27
+Viper,has-teeth,11,29,11.37931034,37,27
+Dog,has-many kinds,9,29,9.310344828,37,22
+Dog,has-teeth,7,29,7.24137931,37,22
+shrub,has-many kinds,6,30,6,37,17
+Siberian Husky,has-teeth,6,31,5.806451613,37,19
+seaweed,has-many kinds,6,30,6,37,29
+Otarriinae,has-teeth,8,30,8,37,16
+panther,has-teeth,11,29,11.37931034,37,20
+fox,has-teeth,7,30,7,37,17
+Rat,has-teeth,8,30,8,37,21
+leopard,has-teeth,7,30,7,37,40
+whale,has-teeth,7,33,6.363636364,37,18
+Dinosaur,has-teeth,13,30,13,37,17
+wolf,has-teeth,12,29,12.4137931,37,22
+wolf,has-many kinds,6,29,6.206896552,37,22
+tiger,has-teeth,16,31,15.48387097,37,23
+mouse,has-teeth,10,30,10,37,25
+Cheetah,has-teeth,12,30,12,37,25
+hound,has-teeth,10,30,10,37,21
+tyre,has-many kinds,9,54,5,37,17
+Python,has-teeth,12,47,7.659574468,37,30
+The sperm whale,has-teeth,7,30,7,37,19
+snake,has-teeth,11,31,10.64516129,37,19
+lion,has-teeth,14,30,14,37,23
+rat,has-many kinds,7,30,7,37,21
+Peach,has-many kinds,7,30,7,37,17
+lizard,has-many kinds,7,50,4.2,37,30
+mole,has-teeth,11,30,11,37,16
+Coconut,is-hard,10,30,10,37,18
+Bungarus multicinctus,has-teeth,7,29,7.24137931,37,18
+Cherry,has-many kinds,7,30,7,37,17
+fish,has-many kinds,7,30,7,37,16
+nail,can-Protect,18,30,18,37,17
+nail,is-hard,14,30,14,37,17
+Bus,is-Vehicle,15,29,15.51724138,36,28
+Touring car,is-Vehicle,21,30,21,36,18
+Bus,is-Vehicle,14,30,14,36,28
+carriage,is-Vehicle,20,30,20,36,17
+Carriage,is-Vehicle,14,30,14,36,17
+Daisy,has-petals,17,29,17.5862069,35,16
+Lotus,has-petals,22,30,22,35,37
+Honeysuckle,has-petals,8,30,8,35,20
+Chrysanthemum,has-petals,18,31,17.41935484,35,19
+Sunflower,has-petals,8,29,8.275862069,35,30
+Lotus,has-petals,23,30,23,35,37
+Sunflower,has-petals,9,31,8.709677419,35,30
+tulips,has-petals,15,31,14.51612903,35,17
+zebra,can-Run,13,28,13.92857143,33,25
+zebra,is-Mammals,7,28,7.5,33,25
+leopard,can-Run,17,30,17,33,40
+leopard,is-Mammals,8,30,8,33,40
+Timber wolf,can-Run,8,30,8,33,24
+Soybean Milk,is-beverages,13,29,13.44827586,33,16
+Soybean Milk,need-Boil,6,29,6.206896552,33,16
+African elephant,is-Mammals,7,31,6.774193548,33,19
+Dog,can-Run,6,29,6.206896552,33,22
+Otarriinae,is-Mammals,6,30,6,33,16
+Lotus,is-Drugs,6,30,6,33,37
+panther,can-Run,15,29,15.51724138,33,20
+panther,is-Mammals,6,29,6.206896552,33,20
+Monkey,is-Mammals,9,29,9.310344828,33,29
+monkey,is-Mammals,7,30,7,33,29
+Cauliflower,need-Boil,8,30,8,33,17
+Raccoons,can-Run,8,30,8,33,20
+Raccoons,is-Mammals,8,30,8,33,20
+egg,need-Boil,8,31,7.741935484,33,17
+leopard,can-Run,14,30,14,33,40
+Honeysuckle,is-Drugs,25,30,25,33,20
+whale,is-Mammals,17,33,15.45454545,33,18
+Chrysanthemum,is-Drugs,7,31,6.774193548,33,19
+Dinosaur,can-Run,9,30,9,33,17
+The Dachshund,can-Run,11,29,11.37931034,33,19
+wolf,can-Run,7,29,7.24137931,33,22
+wolf,is-Mammals,7,29,7.24137931,33,22
+tiger,can-Run,9,31,8.709677419,33,23
+tiger,is-Mammals,8,31,7.741935484,33,23
+mouse,is-Mammals,7,30,7,33,25
+Lotus,is-Drugs,9,30,9,33,37
+Cheetah,can-Run,17,30,17,33,25
+Cheetah,is-Mammals,10,30,10,33,25
+hound,can-Run,8,30,8,33,21
+hound,is-Mammals,8,30,8,33,21
+Snail,has-Meat,14,30,14,33,20
+Yak,is-Mammals,7,30,7,33,18
+Elk,can-Run,18,30,18,33,19
+Elk,is-Mammals,6,30,6,33,19
+The sperm whale,is-Mammals,15,30,15,33,19
+Oysters,has-Meat,13,31,12.58064516,33,24
+cattle,is-Mammals,9,31,8.709677419,33,31
+Loquat,is-Drugs,7,30,7,33,19
+Squab,has-Meat,6,30,6,33,16
+Hawthorn,is-Drugs,6,31,5.806451613,33,17
+Oysters,has-Meat,16,30,16,33,24
+lion,can-Run,12,30,12,33,23
+lion,is-Mammals,6,30,6,33,23
+Leech,is-Drugs,10,28,10.71428571,33,27
+rabbit,can-Run,9,30,9,33,35
+Rabbit,can-Run,9,30,9,33,35
+ostrich,can-Run,11,30,11,33,16
+chimpanzee,is-Mammals,11,30,11,33,18
+panda,is-Mammals,6,29,6.206896552,33,23
+mole,is-Mammals,9,30,9,33,16
+Alpaca,can-Run,11,30,11,33,21
+Alpaca,is-Mammals,7,30,7,33,21
+pheasant,can-Run,6,29,6.206896552,33,16
+hare,can-Run,10,30,10,33,21
+gym shoes,can-Run,10,29,10.34482759,33,16
+goose,has-Feathers,17,30,17,32,17
+Touring car,need-Maintenance,7,30,7,32,18
+dove,has-Feathers,15,30,15,32,16
+Cock,has-Feathers,11,30,11,32,20
+Seagull,has-Feathers,14,30,14,32,16
+black swan,has-Feathers,16,30,16,32,17
+tyre,need-Maintenance,9,54,5,32,17
+Hen,has-Feathers,10,30,10,32,18
+leather jacket,need-Maintenance,10,30,10,32,16
+Squab,has-Feathers,9,30,9,32,16
+Swan,has-Feathers,18,31,17.41935484,32,18
+Vulture,has-Feathers,10,28,10.71428571,32,16
+ostrich,has-Feathers,10,30,10,32,16
+duck,has-Feathers,12,29,12.4137931,32,17
+swallow,has-Feathers,16,31,15.48387097,32,17
+pheasant,has-Feathers,13,29,13.44827586,32,16
+gym shoes,need-Maintenance,7,29,7.24137931,32,16
+Robins,has-Feathers,14,29,14.48275862,32,17
+Tyrannosaurus Rex,has-Claws,8,28,8.571428571,29,16
+Persian cat,has-Claws,8,29,8.275862069,29,18
+dove,has-Claws,9,30,9,29,16
+Cock,has-Claws,9,30,9,29,20
+Seagull,has-Claws,8,30,8,29,16
+Koala,has-Claws,6,30,6,29,18
+wolf,has-Claws,7,29,7.24137931,29,22
+Cheetah,has-Claws,6,30,6,29,25
+Hen,has-Claws,7,30,7,29,18
+Squab,has-Claws,8,30,8,29,16
+lion,has-Claws,8,30,8,29,23
+Vulture,has-Claws,11,28,11.78571429,29,16
+lizard,has-Claws,9,50,5.4,29,30
+mole,has-Claws,8,30,8,29,16
+swallow,has-Claws,7,31,6.774193548,29,17
+pheasant,has-Claws,6,29,6.206896552,29,16
+Robins,has-Claws,6,29,6.206896552,29,17
+Persian cat,need-Feed,6,29,6.206896552,28,18
+Daisy,is-small,6,29,6.206896552,28,16
+Turbot,need-Feed,6,30,6,28,16
+goose,need-Feed,7,30,7,28,17
+citrus,is-acid,8,29,8.275862069,28,17
+dove,need-Feed,7,30,7,28,16
+Cock,need-Feed,7,30,7,28,20
+shrub,is-small,9,30,9,28,17
+Siberian Husky,need-Feed,8,31,7.741935484,28,19
+cattle,need-Feed,8,30,8,28,31
+Orange,is-acid,9,30,9,28,16
+Guppy,need-Feed,6,28,6.428571429,28,17
+Blueberry,is-acid,7,30,7,28,16
+mouse,is-small,6,30,6,28,25
+carp,need-Feed,6,30,6,28,32
+kiwifruit,is-acid,7,30,7,28,17
+Hen,need-Feed,6,30,6,28,18
+lemon,is-acid,26,30,26,28,16
+Grape,is-acid,7,31,6.774193548,28,20
+Squab,need-Feed,9,30,9,28,16
+Hawthorn,is-acid,19,31,18.38709677,28,17
+Chow Chow,need-Feed,8,30,8,28,16
+rabbit,need-Feed,8,30,8,28,35
+Rabbit,need-Feed,11,30,11,28,35
+Tomatoes,is-acid,6,31,5.806451613,28,22
+duck,need-Feed,6,29,6.206896552,28,17
+Cherry,is-acid,6,30,6,28,17
+grapefruit,is-acid,8,30,8,28,17
+Robins,is-small,7,29,7.24137931,28,17
+moth,is-small,6,28,6.428571429,28,19
+zebra,has-legs,9,28,9.642857143,27,25
+Timber wolf,has-legs,6,30,6,27,24
+olive,has-fruit,12,31,11.61290323,27,27
+Olive,has-fruit,10,29,10.34482759,27,27
+Dog,has-legs,6,29,6.206896552,27,22
+Siberian Husky,has-legs,6,31,5.806451613,27,19
+panther,has-legs,8,29,8.275862069,27,20
+birch,has-fruit,6,30,6,27,16
+The Dachshund,has-legs,9,29,9.310344828,27,19
+hound,has-legs,8,30,8,27,21
+mule,has-legs,7,30,7,27,16
+Yak,has-legs,6,30,6,27,18
+Hen,has-legs,6,30,6,27,18
+Loquat,has-fruit,8,30,8,27,19
+Mulberry,has-fruit,12,30,12,27,17
+ostrich,has-legs,11,30,11,27,16
+lizard,has-legs,7,50,4.2,27,30
+cricket,has-legs,16,59,8.13559322,27,24
+Coconut,has-fruit,6,30,6,27,18
+hare,has-legs,9,30,9,27,21
+grasshopper,has-legs,11,30,11,27,17
+spider,has-legs,16,30,16,27,17
+knife,is-Weapons,9,31,8.709677419,26,25
+Soybean Milk,has-Sugar,6,29,6.206896552,26,16
+dove,is-Birds,22,30,22,26,16
+Seagull,is-Birds,25,30,25,26,16
+penguin,is-Birds,9,31,8.709677419,26,17
+Squab,is-Birds,13,30,13,26,16
+pot,is-container,10,29,10.34482759,26,16
+Swan,is-Birds,12,31,11.61290323,26,18
+Vulture,is-Birds,12,28,12.85714286,26,16
+ostrich,is-Birds,19,30,19,26,16
+cricket,can-Voice,9,59,4.576271186,26,24
+swallow,is-Birds,24,31,23.22580645,26,17
+Robins,is-Birds,24,29,24.82758621,26,17
+zebra,has-Ears,9,28,9.642857143,25,25
+leopard,has-Ears,7,30,7,25,40
+Knife,is-Sharp,12,30,12,25,25
+knife,is-Sharp,19,31,18.38709677,25,25
+nail,is-sharp,8,29,8.275862069,25,17
+nail,is-Sharp,6,29,6.206896552,25,17
+African elephant,has-Ears,16,31,15.48387097,25,19
+Dog,has-Ears,10,29,10.34482759,25,22
+Siberian Husky,has-Ears,15,31,14.51612903,25,19
+Raccoons,has-Ears,7,30,7,25,20
+Koala,has-Ears,14,30,14,25,18
+The Dachshund,has-Ears,6,29,6.206896552,25,19
+tiger,has-Ears,6,31,5.806451613,25,23
+mouse,has-Ears,9,30,9,25,25
+hound,has-Ears,6,30,6,25,21
+Totoro,has-Ears,14,29,14.48275862,25,16
+mule,has-Ears,9,30,9,25,16
+Elk,has-Ears,7,30,7,25,19
+Ewes,has-Ears,6,30,6,25,21
+cattle,has-Ears,8,31,7.741935484,25,31
+Chow Chow,has-Ears,6,30,6,25,16
+rabbit,has-Ears,15,30,15,25,35
+Rabbit,has-Ears,18,30,18,25,35
+panda,has-Ears,7,29,7.24137931,25,23
+Alpaca,has-Ears,6,30,6,25,21
+hare,has-Ears,18,30,18,25,21
+Refrigerator,is-Electrical,20,31,19.35483871,24,18
+Jujube,has-stone,10,30,10,24,27
+Refrigerator,is-Electrical,21,30,21,24,18
+olive,has-stone,10,31,9.677419355,24,27
+litchi,has-stone,19,31,18.38709677,24,17
+honey peach,has-stone,15,30,15,24,28
+Loquat,has-stone,12,30,12,24,19
+Hawthorn,has-stone,21,31,20.32258065,24,17
+Honey peach,has-stone,14,30,14,24,28
+Peach,has-stone,16,30,16,24,17
+belt,is-Decoration,8,30,8,24,22
+Cherry,has-stone,16,30,16,24,17
+Jujube,has-stone,14,30,14,24,27
+silver birch,is-Tree,18,30,18,23,19
+white-barked pine,is-Tree,15,30,15,23,16
+Cypress,is-Tree,12,28,12.85714286,23,16
+glass,is-Living Supplies,8,30,8,23,19
+Glass,is-transparent,16,30,16,23,19
+Scallion,is-Seasoning,11,30,11,23,17
+garlic,is-Seasoning,15,30,15,23,16
+Carp,is-Fish,21,29,21.72413793,23,32
+Turbot,is-Fish,27,30,27,23,16
+Viper,can-Crawl,6,29,6.206896552,23,27
+Olive,is-Tree,15,29,15.51724138,23,27
+Jellyfish,is-transparent,9,31,8.709677419,23,29
+birch,is-Tree,14,30,14,23,16
+Crucian carp,is-Fish,25,30,25,23,17
+whale,is-Fish,10,33,9.090909091,23,18
+Guppy,is-Fish,23,28,24.64285714,23,17
+carp,is-Fish,26,30,26,23,32
+Python,can-Crawl,18,47,11.4893617,23,30
+The sperm whale,is-Fish,14,30,14,23,19
+snake,can-Crawl,12,31,11.61290323,23,19
+Jellyfish,is-transparent,10,30,10,23,29
+Metasequoia,is-Tree,16,30,16,23,19
+snail,can-Crawl,20,30,20,23,20
+lizard,can-Crawl,27,50,16.2,23,30
+Bungarus multicinctus,can-Crawl,11,29,11.37931034,23,18
+spider,can-Crawl,7,30,7,23,17
+zebra,need-grass,13,28,13.92857143,22,25
+Seaweed,is-Snacks,7,29,7.24137931,22,29
+cattle,need-grass,9,30,9,22,31
+Yak,need-grass,13,30,13,22,18
+Elk,need-grass,7,30,7,22,19
+Ewes,need-grass,16,30,16,22,21
+cattle,need-grass,13,31,12.58064516,22,31
+Belt,has-hole,14,30,14,22,22
+rabbit,need-grass,9,30,9,22,35
+Rabbit,need-grass,9,30,9,22,35
+cricket,need-grass,9,59,4.576271186,22,24
+Alpaca,need-grass,11,30,11,22,21
+belt,has-hole,15,30,15,22,22
+hare,need-grass,11,30,11,22,21
+grasshopper,need-grass,8,30,8,22,17
+Bus,has-seat,16,29,16.55172414,21,28
+silver birch,has-branches,10,30,10,21,19
+white-barked pine,has-branches,6,30,6,21,16
+Cypress,has-branches,11,28,11.78571429,21,16
+Daisy,has-stamens,9,29,9.310344828,21,16
+Viper,can-Bite,14,30,14,21,27
+Viper,can-Bite,14,30,14,21,27
+Viper,can-Bite,7,29,7.24137931,21,27
+Viper,can-Bite,7,29,7.24137931,21,27
+Olive,has-branches,9,29,9.310344828,21,27
+Bus,has-seat,16,30,16,21,28
+shrub,has-branches,11,30,11,21,17
+Lotus,has-stamens,12,30,12,21,37
+birch,has-branches,12,30,12,21,16
+Honeysuckle,has-stamens,8,30,8,21,20
+Chrysanthemum,has-stamens,8,31,7.741935484,21,19
+The Dachshund,can-Bite,6,29,6.206896552,21,19
+The Dachshund,can-Bite,6,29,6.206896552,21,19
+Lotus,has-stamens,10,30,10,21,37
+snake,can-Bite,6,31,5.806451613,21,19
+snake,can-Bite,6,31,5.806451613,21,19
+Metasequoia,has-branches,13,30,13,21,19
+Bungarus multicinctus,can-Bite,6,29,6.206896552,21,18
+Bungarus multicinctus,can-Bite,6,29,6.206896552,21,18
+tulips,has-stamens,9,31,8.709677419,21,17
+nail,is-body parts,10,30,10,21,17
+silver birch,has-trunk,17,30,17,20,19
+white-barked pine,has-trunk,12,30,12,20,16
+Cypress,has-trunk,11,28,11.78571429,20,16
+leopard,has-Nose,7,30,7,20,40
+Scallion,can-to taste,9,30,9,20,17
+Timber wolf,has-Nose,6,30,6,20,24
+garlic,can-to taste,11,30,11,20,16
+African elephant,has-Nose,25,31,24.19354839,20,19
+Olive,has-trunk,12,29,12.4137931,20,27
+Dog,has-Nose,7,29,7.24137931,20,22
+Siberian Husky,has-Nose,10,31,9.677419355,20,19
+monkey,has-Nose,6,30,6,20,29
+birch,has-trunk,14,30,14,20,16
+Raccoons,has-Nose,7,30,7,20,20
+Koala,has-Nose,9,30,9,20,18
+The Dachshund,has-Nose,9,29,9.310344828,20,19
+hound,has-Nose,6,30,6,20,21
+tyre,has-many models,11,54,6.111111111,20,17
+mule,has-Nose,7,30,7,20,16
+Elk,has-Nose,6,30,6,20,19
+Ewes,has-Nose,7,30,7,20,21
+cattle,has-Nose,9,31,8.709677419,20,31
+lion,has-Nose,8,30,8,20,23
+mouse,has-Keys,7,30,7,20,25
+Metasequoia,has-trunk,9,30,9,20,19
+coriander,can-to taste,9,30,9,20,17
+chimpanzee,has-Nose,7,30,7,20,18
+Tyrannosaurus Rex,is-vicious,8,28,8.571428571,19,16
+leopard,is-vicious,8,30,8,19,40
+glass,is-glass,9,30,9,19,19
+Timber wolf,is-vicious,10,30,10,19,24
+Watermelon,has-seed,10,31,9.677419355,19,36
+citrus,has-seed,6,29,6.206896552,19,17
+Hami melon,has-seed,10,30,10,19,17
+Jellyfish,is-Biology,10,31,9.677419355,19,29
+panther,is-vicious,8,29,8.275862069,19,20
+Cucurbit,has-seed,7,30,7,19,21
+cucumber,has-seed,9,30,9,19,21
+Dinosaur,is-vicious,7,30,7,19,17
+wolf,is-vicious,14,29,14.48275862,19,22
+tiger,is-vicious,14,31,13.5483871,19,23
+Cheetah,is-vicious,9,30,9,19,25
+hound,is-vicious,9,30,9,19,21
+Python,is-vicious,7,47,4.468085106,19,30
+kiwifruit,has-seed,9,30,9,19,17
+Oysters,is-Biology,10,31,9.677419355,19,24
+lemon,has-seed,6,30,6,19,16
+Grape,has-seed,14,31,13.5483871,19,20
+Oysters,is-Biology,6,30,6,19,24
+lion,is-vicious,16,30,16,19,23
+Jellyfish,is-Biology,16,30,16,19,29
+Vulture,is-vicious,9,28,9.642857143,19,16
+watermelon,has-seed,11,31,10.64516129,19,36
+Tomatoes,has-seed,8,31,7.741935484,19,22
+moth,is-Biology,6,28,6.428571429,19,19
+Daisy,can-Brew,8,29,8.275862069,18,16
+soybean,has-Protein,6,30,6,18,26
+garlic,need-Peel,10,30,10,18,16
+Soybean Milk,has-Protein,7,29,7.24137931,18,16
+citrus,need-Peel,7,29,7.24137931,18,17
+Cucurbit,like-stick,7,30,7,18,21
+cucumber,like-stick,6,30,6,18,21
+egg,has-Protein,7,31,6.774193548,18,17
+Honeysuckle,can-Brew,16,30,16,18,20
+Orange,need-Peel,10,30,10,18,16
+Chrysanthemum,can-Brew,13,31,12.58064516,18,19
+Guppy,is-good to see,9,28,9.642857143,18,17
+litchi,need-Peel,8,31,7.741935484,18,17
+babysbreath,is-good to see,7,29,7.24137931,18,16
+Soybean,need-Peel,9,29,9.310344828,18,26
+kiwifruit,need-Peel,8,30,8,18,17
+lemon,can-Brew,17,30,17,18,16
+grapefruit,need-Peel,7,30,7,18,17
+tulips,is-good to see,6,31,5.806451613,18,17
+Jujube,can-Brew,9,30,9,18,27
+glass,has-a variety of materials,6,30,6,17,19
+moth,has-Antennae,9,29,9.310344828,17,19
+Touring car,is-expensive,8,30,8,17,18
+Jellyfish,has-Antennae,7,31,6.774193548,17,29
+gym shoes,can-Exercise,7,30,7,17,16
+Jellyfish,has-Antennae,13,30,13,17,29
+snail,has-Antennae,11,30,11,17,20
+watermelon,can-quench thirst,8,31,7.741935484,17,36
+cricket,has-Antennae,19,59,9.661016949,17,24
+gym shoes,can-Exercise,7,29,7.24137931,17,16
+grasshopper,has-Antennae,8,30,8,17,17
+glass,has-Cover,6,30,6,16,19
+tyre,need-Install,7,54,3.888888889,16,17
+Python,has-HEAD,6,47,3.829787234,16,30
+ostrich,has-HEAD,9,30,9,16,16
+lizard,has-HEAD,11,50,6.6,16,30
+cricket,has-HEAD,9,59,4.576271186,16,24
+Bungarus multicinctus,has-HEAD,7,29,7.24137931,16,18
+Bus,need-Oil,8,29,8.275862069,15,28
+zebra,has-Patterns,7,28,7.5,15,25
+Carp,has-fins,7,29,7.24137931,15,32
+Viper,like-rope,12,30,12,15,27
+Turbot,has-fins,9,30,9,15,16
+Touring car,need-Oil,8,30,8,15,18
+Viper,like-rope,8,29,8.275862069,15,27
+Bus,need-Oil,6,30,6,15,28
+Sea snake,like-rope,9,30,9,15,18
+Crucian carp,has-fins,8,30,8,15,17
+leopard,has-Patterns,10,30,10,15,40
+whale,has-fins,16,33,14.54545455,15,18
+Orange,like-ball,6,30,6,15,16
+Guppy,has-fins,11,28,11.78571429,15,17
+tiger,has-Patterns,6,31,5.806451613,15,23
+carp,has-fins,10,30,10,15,32
+Cheetah,has-Patterns,6,30,6,15,25
+tyre,has-Patterns,8,54,4.444444444,15,17
+Python,like-rope,18,47,11.4893617,15,30
+Python,has-Patterns,6,47,3.829787234,15,30
+The sperm whale,has-fins,9,30,9,15,19
+Bacon,has-Oil,6,31,5.806451613,15,18
+Belt,like-rope,12,30,12,15,22
+snake,like-rope,17,31,16.4516129,15,19
+watermelon,like-ball,16,31,15.48387097,15,36
+onion,like-ball,6,30,6,15,17
+belt,like-rope,10,30,10,15,22
+belt,has-button,6,30,6,15,22
+Coconut,like-ball,13,30,13,15,18
+Bungarus multicinctus,like-rope,17,29,17.5862069,15,18
+grapefruit,like-ball,12,30,12,15,17
+fish,has-fins,13,30,13,15,16
+Knife,need-grind,6,30,6,14,25
+knife,need-grind,7,31,6.774193548,14,25
+Viper,has-Toxic,25,30,25,14,27
+Viper,is-dangerous,6,30,6,14,27
+Touring car,can-sleep,8,30,8,14,18
+Viper,has-Toxic,12,29,12.4137931,14,27
+Sea snake,has-Toxic,6,30,6,14,18
+Python,has-Toxic,13,47,8.29787234,14,30
+snake,has-Toxic,10,31,9.677419355,14,19
+pot,can-hold,12,29,12.4137931,14,16
+Bungarus multicinctus,has-Toxic,14,29,14.48275862,14,18
+spider,has-Toxic,7,30,7,14,17
+silver birch,is-high,8,30,8,13,19
+Sea snake,has-Body,8,30,8,13,18
+birch,is-high,9,30,9,13,16
+Python,has-Body,7,47,4.468085106,13,30
+Elk,has-Body,6,30,6,13,19
+leather jacket,has-Sleeve,11,30,11,13,16
+Metasequoia,is-high,8,30,8,13,19
+lizard,has-Body,6,50,3.6,13,30
+cricket,has-Body,11,59,5.593220339,13,24
+chimpanzee,has-Body,8,30,8,13,18
+Bus,need-Driver,9,29,9.310344828,12,28
+Persian cat,is-cute,9,29,9.310344828,12,18
+soybean,is-Bean,6,30,6,12,26
+Turbot,has-Scaly,12,30,12,12,16
+Bus,need-Driver,10,30,10,12,28
+Dog,is-cute,8,29,8.275862069,12,22
+Raccoons,is-cute,8,30,8,12,20
+Crucian carp,has-Scaly,18,30,18,12,17
+Koala,is-cute,10,30,10,12,18
+Guppy,has-Scaly,8,28,8.571428571,12,17
+carp,has-Scaly,12,30,12,12,32
+Totoro,is-cute,7,29,7.24137931,12,16
+Python,has-Scaly,8,47,5.106382979,12,30
+Soybean,is-Bean,7,29,7.24137931,12,26
+Bacon,need-Cooking,8,31,7.741935484,12,18
+leather jacket,has-zip,7,30,7,12,16
+rabbit,is-cute,7,30,7,12,35
+Rabbit,is-cute,10,30,10,12,35
+panda,is-cute,6,29,6.206896552,12,23
+Alpaca,is-cute,6,30,6,12,21
+fish,has-Scaly,18,30,18,12,16
+trousers,has-zip,7,30,7,12,18
+leopard,like-Cat,10,30,10,11,40
+Glass,can-Windshield,7,30,7,11,19
+Knife,is-knife,23,30,23,11,25
+garlic,is-spicy,12,30,12,11,16
+Olive,like-umbrella,7,29,7.24137931,11,27
+Bus,can-ride,8,30,8,11,28
+Hami melon,need-cut,10,30,10,11,17
+Jellyfish,like-umbrella,7,31,6.774193548,11,29
+Lotus,is-in the water,8,30,8,11,37
+panther,like-Cat,9,29,9.310344828,11,20
+Monkey,like-human,16,29,16.55172414,11,29
+Monkey,can-Jump,6,29,6.206896552,11,29
+monkey,like-human,20,30,20,11,29
+Cucurbit,has-prick,11,30,11,11,21
+Cucurbit,has-Vitamin,6,30,6,11,21
+Raccoons,is-Brown,6,30,6,11,20
+cucumber,has-prick,12,30,12,11,21
+Crucian carp,is-in the water,6,30,6,11,17
+leopard,like-Cat,9,30,9,11,40
+Cushion,is-Comfortable,7,31,6.774193548,11,17
+tiger,like-Cat,16,31,15.48387097,11,23
+Lotus,is-in the water,7,30,7,11,37
+Cheetah,like-Cat,13,30,13,11,25
+Durian,has-prick,14,30,14,11,16
+Totoro,like-Cat,12,29,12.4137931,11,16
+tyre,other-Cars,28,54,15.55555556,11,17
+Leech,is-Harmful,11,29,11.37931034,11,27
+kiwifruit,has-Vitamin,8,30,8,11,17
+lemon,need-cut,7,30,7,11,16
+lemon,has-Vitamin,6,30,6,11,16
+leather jacket,can-Windshield,9,30,9,11,16
+leather jacket,can-Keep Cold,9,30,9,11,16
+lion,like-Cat,11,30,11,11,23
+Jellyfish,like-umbrella,12,30,12,11,29
+Jellyfish,is-in the water,6,30,6,11,29
+Leech,is-Harmful,7,28,7.5,11,27
+Leech,is-in the water,6,28,6.428571429,11,27
+rabbit,can-Jump,11,30,11,11,35
+Rabbit,can-Jump,9,30,9,11,35
+watermelon,need-cut,10,31,9.677419355,11,36
+cricket,can-Jump,18,59,9.152542373,11,24
+chimpanzee,like-human,17,30,17,11,18
+onion,is-spicy,10,30,10,11,17
+onion,need-cut,10,30,10,11,17
+hare,can-Jump,7,30,7,11,21
+hare,like-Cat,7,30,7,11,21
+fish,is-in the water,10,30,10,11,16
+gym shoes,is-Comfortable,6,29,6.206896552,11,16
+grasshopper,can-Jump,17,30,17,11,17
+moth,is-Harmful,16,28,17.14285714,11,19
+Cushion,is-Comfortable,6,28,6.428571429,11,17
+knife,can-kill,7,31,6.774193548,10,25
+Viper,is-Reptiles,10,30,10,10,27
+Turbot,has-gills,7,30,7,10,16
+citrus,is-Orange,9,29,9.310344828,10,17
+citrus,is-Orange,6,29,6.206896552,10,17
+pot,is-kitchen utensils,6,30,6,10,16
+Sea snake,is-Reptiles,7,30,7,10,18
+Seaweed,is-salty,6,29,6.206896552,10,29
+cattle,has-Angle,9,30,9,10,31
+Crucian carp,has-gills,7,30,7,10,17
+Crucian carp,need-Oxygen,6,30,6,10,17
+Orange,is-Orange,7,30,7,10,16
+Guppy,need-Oxygen,9,28,9.642857143,10,17
+Guppy,has-gills,7,28,7.5,10,17
+Bacon,is-salty,6,30,6,10,18
+carp,has-gills,8,30,8,10,32
+carp,need-Oxygen,7,30,7,10,32
+Python,is-Reptiles,8,47,5.106382979,10,30
+Yak,has-Angle,6,30,6,10,18
+Elk,has-Angle,27,30,27,10,19
+The sperm whale,need-Oxygen,6,30,6,10,19
+Ewes,has-Angle,9,30,9,10,21
+cattle,has-Angle,9,31,8.709677419,10,31
+snake,is-Reptiles,12,31,11.61290323,10,19
+Clock,can-Timing,9,30,9,10,22
+pot,is-Ceramics,6,29,6.206896552,10,16
+lizard,is-Reptiles,21,50,12.6,10,30
+cricket,can-Call,17,59,8.644067797,10,24
+coriander,has-Taste,10,30,10,10,17
+Bungarus multicinctus,is-Reptiles,9,29,9.310344828,10,18
+fish,has-gills,16,30,16,10,16
+fish,need-Oxygen,8,30,8,10,16
+Robins,can-Call,9,29,9.310344828,10,17
+spider,is-Reptiles,6,30,6,10,17
+clock,can-Timing,13,29,13.44827586,10,22
+clock,can-Timing,9,29,9.310344828,10,22
+Refrigerator,has-door,12,31,11.61290323,9,18
+Refrigerator,is-cabinet,7,31,6.774193548,9,18
+Dionaea muscipula,need-Insect,7,30,7,9,16
+Knife,can-Cut,19,30,19,9,25
+Knife,has-blade,16,30,16,9,25
+knife,can-Cut,26,31,25.16129032,9,25
+knife,has-blade,18,31,17.41935484,9,25
+Refrigerator,has-door,11,30,11,9,18
+Refrigerator,is-cabinet,7,30,7,9,18
+Soybean Milk,has-Beans,6,29,6.206896552,9,16
+Cabbage,is-Purple,6,30,6,9,29
+Siberian Husky,is-Dog,30,31,29.03225806,9,19
+The Dachshund,is-Dog,23,29,23.79310345,9,19
+hound,is-Dog,16,30,16,9,21
+Soybean,has-Beans,6,29,6.206896552,9,26
+Grape,is-Purple,12,31,11.61290323,9,20
+Mulberry,is-Purple,13,30,13,9,17
+Clock,has-pointer,15,30,15,9,22
+Chow Chow,is-Dog,9,30,9,9,16
+lizard,need-Insect,10,50,6,9,30
+swallow,need-Insect,10,31,9.677419355,9,17
+onion,is-Purple,9,30,9,9,17
+spider,need-Insect,7,30,7,9,17
+clock,has-pointer,11,29,11.37931034,9,22
+Bus,need-Go,6,29,6.206896552,8,28
+Glass,is-Material,6,30,6,8,19
+Carp,need-Seawater,7,29,7.24137931,8,32
+Viper,is-Snake,6,30,6,8,27
+goose,is-Poultry,9,30,9,8,17
+Touring car,can-Move,8,30,8,8,18
+Touring car,need-Go,6,30,6,8,18
+Viper,is-Snake,13,29,13.44827586,8,27
+citrus,like-orange,13,29,13.44827586,8,17
+dove,is-Poultry,7,30,7,8,16
+Cock,is-Poultry,11,30,11,8,20
+Bus,need-Go,6,30,6,8,28
+Sea snake,is-Snake,18,30,18,8,18
+Sea snake,need-Seawater,7,30,7,8,18
+Jellyfish,can-Cool,7,31,6.774193548,8,29
+Cucurbit,can-Cool,7,30,7,8,21
+cucumber,can-Cool,7,30,7,8,21
+Orange,like-orange,11,30,11,8,16
+tyre,need-inflate,11,54,6.111111111,8,17
+Python,is-Snake,16,47,10.21276596,8,30
+The sperm whale,need-Seawater,8,30,8,8,19
+Hen,is-Poultry,16,30,16,8,18
+lemon,like-orange,9,30,9,8,16
+lemon,like-orange,6,30,6,8,16
+Bacon,has-Fat,8,31,7.741935484,8,18
+Belt,like-snake,8,30,8,8,22
+Clock,has-dial,11,30,11,8,22
+Jellyfish,need-Seawater,9,30,9,8,29
+Jellyfish,can-Move,6,30,6,8,29
+Lettuce,can-Cool,9,31,8.709677419,8,33
+Tomatoes,can-Cool,6,31,5.806451613,8,22
+lizard,like-snake,15,50,9,8,30
+duck,is-Poultry,16,29,16.55172414,8,17
+belt,like-snake,9,30,9,8,22
+pheasant,is-Poultry,9,29,9.310344828,8,16
+Bungarus multicinctus,is-Snake,13,29,13.44827586,8,18
+grapefruit,like-orange,6,30,6,8,17
+grapefruit,like-orange,6,30,6,8,17
+trousers,is-Trousers,16,30,16,8,18
+clock,has-dial,7,29,7.24137931,8,22
+zebra,like-horse,12,28,12.85714286,7,25
+glass,can-hold water,6,30,6,7,19
+Persian cat,is-pets,8,29,8.275862069,7,18
+Dionaea muscipula,is-Grass,6,30,6,7,16
+Knife,is-tableware,16,30,16,7,25
+nail,has-tip,17,29,17.5862069,7,17
+Dog,is-pets,8,29,8.275862069,7,22
+shrub,like-grass,8,30,8,7,17
+Siberian Husky,is-pets,6,31,5.806451613,7,19
+seaweed,like-grass,10,30,10,7,29
+Sea snake,has-tongue,6,30,6,7,18
+Monkey,can-Climb Trees,13,29,13.44827586,7,29
+Raccoons,can-Climb Trees,10,30,10,7,20
+egg,is-Eggs,7,31,6.774193548,7,17
+Koala,can-Climb Trees,14,30,14,7,18
+trousers,has-Pants Legs,9,30,9,7,18
+Sausage,need-marinate,9,30,9,7,18
+The Dachshund,is-pets,7,29,7.24137931,7,19
+Bacon,need-marinate,13,30,13,7,18
+Totoro,is-pets,7,29,7.24137931,7,16
+Totoro,like-mouse,6,29,6.206896552,7,16
+mule,like-horse,27,30,27,7,16
+Python,has-tongue,7,47,4.468085106,7,30
+Elk,like-horse,6,30,6,7,19
+Belt,is-Leather,16,30,16,7,22
+Belt,is-tape,6,30,6,7,22
+leather jacket,is-Leather,16,30,16,7,16
+leather jacket,has-bag,6,30,6,7,16
+penguin,has-feet,9,31,8.709677419,7,17
+snake,has-tongue,8,31,7.741935484,7,19
+mouse,like-mouse,22,30,22,7,25
+mouse,is-Electronic Products,8,30,8,7,25
+Chow Chow,is-pets,8,30,8,7,16
+lizard,has-tongue,7,50,4.2,7,30
+cricket,has-feet,7,59,3.559322034,7,24
+panda,can-Climb Trees,14,29,14.48275862,7,23
+mole,like-mouse,21,30,21,7,16
+belt,is-tape,15,30,15,7,22
+belt,is-Leather,14,30,14,7,22
+Bungarus multicinctus,has-tongue,7,29,7.24137931,7,18
+trousers,has-Pants Legs,9,30,9,7,18
+Robins,has-feet,6,29,6.206896552,7,17
+spider,has-feet,7,30,7,7,17
+Bus,need-Gasoline,9,29,9.310344828,6,28
+zebra,is-black and white,13,28,13.92857143,6,25
+leopard,like-Lion,9,30,9,6,40
+Refrigerator,is-at home,14,31,13.5483871,6,18
+soybean,has-pod,6,30,6,6,26
+Refrigerator,is-at home,9,30,9,6,18
+nail,can-Fix,7,29,7.24137931,6,17
+Soybean Milk,is-Bean Products,7,29,7.24137931,6,16
+tomato,like-Apple,9,30,9,6,17
+Cabbage,like-cabbage,8,30,8,6,29
+Bus,can-Drive,6,30,6,6,28
+Otarriinae,like-Lion,9,30,9,6,16
+Lotus,is-Pink,11,30,11,6,37
+Cauliflower,like-flower,8,30,8,6,17
+Cabbage,like-cabbage,13,30,13,6,29
+Cushion,is-household goods,6,31,5.806451613,6,17
+Sunflower,like-Sun,11,29,11.37931034,6,30
+tiger,like-Lion,8,31,7.741935484,6,23
+Cheetah,like-Lion,7,30,7,6,25
+tyre,is-Rubber,31,54,17.22222222,6,17
+babysbreath,can-Gifts,8,29,8.275862069,6,16
+Soybean,has-pod,10,29,10.34482759,6,26
+honey peach,is-Pink,8,30,8,6,28
+Ewes,has-wool,6,30,6,6,21
+penguin,is-black and white,7,31,6.774193548,6,17
+gym shoes,is-Shoes,17,30,17,6,16
+gym shoes,like-boat,12,30,12,6,16
+Hawthorn,like-Apple,10,31,9.677419355,6,17
+Clock,is-Clock,13,30,13,6,22
+Honey peach,is-Pink,14,30,14,6,28
+Jellyfish,like-Mushroom,8,30,8,6,29
+Chow Chow,like-Lion,19,30,19,6,16
+Peach,is-Pink,6,30,6,6,17
+Tomatoes,like-Apple,8,31,7.741935484,6,22
+Broccoli,like-flower,8,30,8,6,16
+Sunflower,like-Sun,6,31,5.806451613,6,30
+panda,is-black and white,10,29,10.34482759,6,23
+Lettuce,like-cabbage,6,30,6,6,33
+gym shoes,is-Shoes,23,29,23.79310345,6,16
+gym shoes,like-boat,8,29,8.275862069,6,16
+clock,is-Clock,8,29,8.275862069,6,22
+Bus,has-Windows,10,29,10.34482759,5,28
+Bus,is-public,8,29,8.275862069,5,28
+leopard,like-Tiger,15,30,15,5,40
+leopard,is-fast,12,30,12,5,40
+leopard,is-Catidae,7,30,7,5,40
+Persian cat,is-Catidae,8,29,8.275862069,5,18
+Persian cat,like-Tiger,7,29,7.24137931,5,18
+goose,like-duck,20,30,20,5,17
+Touring car,need-to drive,8,30,8,5,18
+Touring car,has-Windows,6,30,6,5,18
+olive,like-football,7,31,6.774193548,5,27
+Bus,has-Windows,9,30,9,5,28
+Bus,is-public,6,30,6,5,28
+Dog,like-wolf,16,29,16.55172414,5,22
+Hami melon,like-football,7,30,7,5,17
+Siberian Husky,like-wolf,13,31,12.58064516,5,19
+panther,is-Catidae,6,29,6.206896552,5,20
+black swan,like-duck,11,30,11,5,17
+fox,like-wolf,7,30,7,5,17
+leopard,like-Tiger,10,30,10,5,40
+Sausage,need-Dry,7,30,7,5,18
+Bacon,has-Salt,8,30,8,5,18
+Cheetah,like-Tiger,12,30,12,5,25
+Cheetah,is-Catidae,9,30,9,5,25
+Cheetah,is-fast,8,30,8,5,25
+hound,like-wolf,15,30,15,5,21
+Leech,can-suck blood,13,29,13.44827586,5,27
+Oysters,is-Seafood,7,31,6.774193548,5,24
+Oysters,is-Seafood,14,30,14,5,24
+lion,like-Tiger,14,30,14,5,23
+lion,is-Catidae,6,30,6,5,23
+Clock,has-minute needle,11,30,11,5,22
+Clock,has-hour,10,30,10,5,22
+Clock,has-numbers,10,30,10,5,22
+mouse,need-Computer,19,30,19,5,25
+Leech,can-suck blood,21,28,22.5,5,27
+pot,need-Burn,12,29,12.4137931,5,16
+Swan,like-duck,12,31,11.61290323,5,18
+swallow,like-Sparrow,8,31,7.741935484,5,17
+tulips,like-Rose,11,31,10.64516129,5,17
+Robins,like-Sparrow,6,29,6.206896552,5,17
+clock,has-hour,10,29,10.34482759,5,22
+clock,has-minute needle,9,29,9.310344828,5,22
+white-barked pine,is-Pine,11,30,11,4,16
+Cypress,can-Clean Air,6,28,6.428571429,4,16
+zebra,is-Grass Food,7,28,7.5,4,25
+Glass,is-perishable,8,30,8,4,19
+Glass,is-Fragile,8,30,8,4,19
+Timber wolf,is-Grey,9,30,9,4,24
+Timber wolf,has-sharp teeth,9,30,9,4,24
+nail,like-needle,6,29,6.206896552,4,17
+Watermelon,is-Oval,6,31,5.806451613,4,36
+Soybean Milk,has-soybeans,6,29,6.206896552,4,16
+goose,is-domestic,6,30,6,4,17
+olive,is-Oval,6,31,5.806451613,4,27
+Cock,is-domestic,10,30,10,4,20
+seaweed,like-kelp,7,30,7,4,29
+Otarriinae,has-beard,8,30,8,4,16
+Seaweed,like-kelp,6,29,6.206896552,4,29
+black swan,has-Neck,8,30,8,4,17
+Monkey,is-Primates,9,29,9.310344828,4,29
+Cucurbit,can-eat raw,6,30,6,4,21
+cucumber,can-eat raw,7,30,7,4,21
+cattle,can-cultivate land,14,30,14,4,31
+cattle,is-Niu,8,30,8,4,31
+egg,has-Egg Yolk,23,31,22.25806452,4,17
+egg,is-Oval,6,31,5.806451613,4,17
+whale,can-Spray,12,33,10.90909091,4,18
+Cushion,has-Cotton,14,31,13.5483871,4,17
+Cushion,is-mat,9,31,8.709677419,4,17
+Dinosaur,is-Grass Food,6,30,6,4,17
+wolf,is-Grey,6,29,6.206896552,4,22
+tiger,has-sharp teeth,6,31,5.806451613,4,23
+Durian,is-stinky,8,30,8,4,16
+tyre,is-Components,13,54,7.222222222,4,17
+carriage,is-Ancient,7,30,7,4,17
+babysbreath,like-Star,9,29,9.310344828,4,16
+Yak,is-Niu,15,30,15,4,18
+kiwifruit,like-potatoes,6,30,6,4,17
+Hen,is-domestic,16,30,16,4,18
+Ewes,is-Sheep,12,30,12,4,21
+Oysters,is-shellfish,6,31,5.806451613,4,24
+cattle,can-cultivate land,17,31,16.4516129,4,31
+Bacon,need-fry,7,31,6.774193548,4,18
+Bacon,can-grill,6,31,5.806451613,4,18
+leather jacket,has-collar,7,30,7,4,16
+gym shoes,has-Shoelace,18,30,18,4,16
+Squab,can-grill,7,30,7,4,16
+Oysters,is-shellfish,6,30,6,4,24
+lion,has-sharp teeth,6,30,6,4,23
+Clock,can-see time,7,30,7,4,22
+Jellyfish,like-octopus,6,30,6,4,29
+Metasequoia,can-Clean Air,6,30,6,4,19
+Swan,has-Neck,7,31,6.774193548,4,18
+ostrich,has-Neck,7,30,7,4,16
+Tomatoes,can-eat raw,9,31,8.709677419,4,22
+Tomatoes,has-Juice,6,31,5.806451613,4,22
+chimpanzee,is-Primates,6,30,6,4,18
+panda,need-Bamboo,22,29,22.75862069,4,23
+duck,is-domestic,18,29,18.62068966,4,17
+Alpaca,has-Neck,7,30,7,4,21
+hare,is-Grass Food,6,30,6,4,21
+gym shoes,has-Shoelace,19,29,19.65517241,4,16
+spider,like-octopus,6,30,6,4,17
+nail,can-Protect Your Hand,16,30,16,4,17
+clock,can-see time,7,29,7.24137931,4,22
+Cushion,has-Cotton,8,28,8.571428571,4,17
+Bus,like-bread,7,29,7.24137931,3,28
+white-barked pine,like-Pine,8,30,8,3,16
+Cypress,like-Pine,8,28,8.571428571,3,16
+zebra,has-stripe,11,28,11.78571429,3,25
+zebra,need-breath,7,28,7.5,3,25
+leopard,has-spots,6,30,6,3,40
+glass,can-hold things,11,30,11,3,19
+Refrigerator,can-Keep Fresh,14,31,13.5483871,3,18
+Refrigerator,like-Wardrobe,6,31,5.806451613,3,18
+Knife,can-Cut Vegetables,8,30,8,3,25
+Knife,like-fruit knife,6,30,6,3,25
+soybean,like-pearl,7,30,7,3,26
+Timber wolf,like-Dog,13,30,13,3,24
+Timber wolf,has-four legs,6,30,6,3,24
+Carp,like-tape,7,29,7.24137931,3,32
+knife,can-Cut Vegetables,14,31,13.5483871,3,25
+Refrigerator,can-Keep Fresh,10,30,10,3,18
+goose,like-chicken,7,30,7,3,17
+tomato,like-lantern,8,30,8,3,17
+Touring car,is-House,18,30,18,3,18
+Touring car,can-Travel,6,30,6,3,18
+Touring car,need-Repair,6,30,6,3,18
+Cock,is-Chicken,8,30,8,3,20
+Dog,can-Housekeeping,8,29,8.275862069,3,22
+millet,like-wheat,15,30,15,3,17
+millet,is-Crops,6,30,6,3,17
+shrub,is-Short,18,30,18,3,17
+shrub,like-Tree,12,30,12,3,17
+pot,has-lid,7,30,7,3,16
+Seagull,is-Offshore,7,30,7,3,16
+Jellyfish,need-fishing,8,31,7.741935484,3,29
+fox,like-Dog,16,30,16,3,17
+Cucurbit,like-towel gourd,9,30,9,3,21
+cucumber,like-towel gourd,13,30,13,3,21
+cucumber,is-Strip,7,30,7,3,21
+egg,has-egg white,24,31,23.22580645,3,17
+egg,can-hatch,19,31,18.38709677,3,17
+Dinosaur,like-Lizard,7,30,7,3,17
+Sunflower,has-Seeds,7,29,7.24137931,3,30
+Sausage,is-Pork*,8,30,8,3,18
+Bacon,is-Pork*,6,30,6,3,18
+Blueberry,is-Blue,19,30,19,3,16
+Blueberry,like-Grape,10,30,10,3,16
+Blueberry,like-strawberry,9,30,9,3,16
+wolf,like-Dog,14,29,14.48275862,3,22
+mouse,can-Hole,8,30,8,3,25
+Cheetah,has-spots,7,30,7,3,25
+Durian,like-hedgehog,15,30,15,3,16
+tyre,can-Scroll,23,54,12.77777778,3,17
+tyre,like-Ring,7,54,3.888888889,3,17
+tyre,has-Stripe,7,54,3.888888889,3,17
+Snail,like-Snail,12,30,12,3,20
+Snail,need-fishing,6,30,6,3,20
+Python,is-cold blood,6,47,3.829787234,3,30
+Yak,has-horn,10,30,10,3,18
+The sperm whale,need-Fish,7,30,7,3,19
+Hen,can-lay eggs,22,30,22,3,18
+Hen,can-hatch,6,30,6,3,18
+Ewes,can-produce milk,7,30,7,3,21
+cattle,like-sheep,6,31,5.806451613,3,31
+cattle,has-horn,6,31,5.806451613,3,31
+Belt,is-Strip,6,30,6,3,22
+leather jacket,is-jacket,6,30,6,3,16
+penguin,need-Fish,8,31,7.741935484,3,17
+Squab,like-chicken,6,30,6,3,16
+Mulberry,like-Grape,14,30,14,3,17
+Mulberry,like-strawberry,7,30,7,3,17
+snake,is-cold blood,6,31,5.806451613,3,19
+Oysters,need-fishing,6,30,6,3,24
+rat,can-Hole,8,30,8,3,21
+Metasequoia,like-Pine,6,30,6,3,19
+rabbit,has-Long Ears,10,30,10,3,35
+Rabbit,has-Long Ears,6,30,6,3,35
+ostrich,can-lay eggs,6,30,6,3,16
+lizard,is-Amphibians,7,50,4.2,3,30
+lizard,is-cold blood,6,50,3.6,3,30
+chimpanzee,like-Monkey,18,30,18,3,18
+mole,can-Hole,6,30,6,3,16
+Alpaca,like-sheep,13,30,13,3,21
+Alpaca,like-sheep,6,30,6,3,21
+onion,is-pungent,7,30,7,3,17
+pheasant,is-Chicken,10,29,10.34482759,3,16
+hare,has-Long Ears,11,30,11,3,21
+hare,has-four legs,6,30,6,3,21
+Bus,has-tire,13,29,13.44827586,2,28
+Tyrannosaurus Rex,is-Dinosaurs,14,28,15,2,16
+Tyrannosaurus Rex,is-extinct,7,28,7.5,2,16
+silver birch,like-Poplar,8,30,8,2,19
+silver birch,is-tall,6,30,6,2,19
+white-barked pine,is-Trees,7,30,7,2,16
+Refrigerator,can-Refrigerate,18,31,17.41935484,2,18
+Glass,like-Mirror,7,30,7,2,19
+Dionaea muscipula,can-Catch Insects,9,30,9,2,16
+Knife,can-Cut Meat,8,30,8,2,25
+Knife,like-kitchen knife,8,30,8,2,25
+Timber wolf,can-Cannibals,8,30,8,2,24
+Jujube,has-Nuclear,8,30,8,2,27
+Carp,is-Silver,6,29,6.206896552,2,32
+knife,can-Cut Meat,6,31,5.806451613,2,25
+Refrigerator,can-Refrigerate,24,30,24,2,18
+Watermelon,like-watermelon,8,31,7.741935484,2,36
+Soybean Milk,like-milk,22,29,22.75862069,2,16
+Soybean Milk,is-Breakfast,9,29,9.310344828,2,16
+Soybean Milk,is-in the morning,8,29,8.275862069,2,16
+moth,like-Butterfly,14,29,14.48275862,2,19
+African elephant,has-Long Nose,15,31,14.51612903,2,19
+African elephant,has-Ivory,8,31,7.741935484,2,19
+Cock,has-Cockcomb,24,30,24,2,20
+shrub,can-grow,6,30,6,2,17
+Hami melon,like-watermelon,12,30,12,2,17
+Hami melon,is-Guar,6,30,6,2,17
+Hami melon,has-melon peel,6,30,6,2,17
+Seagull,like-Pigeon,12,30,12,2,16
+Seaweed,is-brittle,8,29,8.275862069,2,29
+panther,is-Leopard,10,29,10.34482759,2,20
+Monkey,is-Smart,10,29,10.34482759,2,29
+Monkey,like-a-chimpanzee,9,29,9.310344828,2,29
+Cucurbit,is-Guar,6,30,6,2,21
+birch,like-Poplar,6,30,6,2,16
+cattle,like-Buffalo,6,30,6,2,31
+egg,need-Chicken,12,31,11.61290323,2,17
+egg,like-ping pong ball,8,31,7.741935484,2,17
+egg,can-fry,7,31,6.774193548,2,17
+Crucian carp,like-carp,7,30,7,2,17
+leopard,is-Leopard,8,30,8,2,40
+Honeysuckle,like-Chrysanthemum,8,30,8,2,20
+whale,like-Shark,15,33,13.63636364,2,18
+Koala,like-Bear,9,30,9,2,18
+Dinosaur,is-extinct,9,30,9,2,17
+Sausage,need-air drying,9,30,9,2,18
+The Dachshund,like-Sausage like,10,29,10.34482759,2,19
+Durian,is-Tropical,9,30,9,2,16
+tyre,like-doughnut,6,54,3.333333333,2,17
+tyre,need-to replace,6,54,3.333333333,2,17
+carriage,has-Horse,25,30,25,2,17
+carriage,need-pull,10,30,10,2,17
+Leech,like-earthworms,8,29,8.275862069,2,27
+Python,can-Cannibals,6,47,3.829787234,2,30
+Python,need-Hibernate,6,47,3.829787234,2,30
+Soybean,like-soybean,6,29,6.206896552,2,26
+Yak,like-Buffalo,6,30,6,2,18
+The sperm whale,like-Shark,7,30,7,2,19
+Ewes,can-Produce,6,30,6,2,21
+Oysters,like-scallop,6,31,5.806451613,2,24
+Belt,need-Punch,7,30,7,2,22
+Loquat,like-apricot,7,30,7,2,19
+Grape,can-brew wine,9,31,8.709677419,2,20
+snake,need-Hibernate,6,31,5.806451613,2,19
+Oysters,like-scallop,8,30,8,2,24
+Clock,has-secondhand,10,30,10,2,22
+mouse,has-Wireless,8,30,8,2,25
+Metasequoia,is-tall,6,30,6,2,19
+Leech,like-earthworms,9,28,9.642857143,2,27
+Leech,has-suction cup,9,28,9.642857143,2,27
+Leech,like-Loach,7,28,7.5,2,27
+Carriage,has-Horse,28,30,28,2,17
+Carriage,need-pull,6,30,6,2,17
+pot,is-Cans,11,29,11.37931034,2,16
+Swan,like-goose,10,31,9.677419355,2,18
+snail,like-tortoise,9,30,9,2,20
+watermelon,like-Pillball,11,31,10.64516129,2,36
+watermelon,has-Guapu,8,31,7.741935484,2,36
+Tomatoes,like-persimmon,7,31,6.774193548,2,22
+lizard,like-Gecko,15,50,9,2,30
+lizard,can-Discolor,9,50,5.4,2,30
+cricket,like-Grasshopper,11,59,5.593220339,2,24
+cricket,like-Mantis,6,59,3.050847458,2,24
+A variety of Chinese cabbage,is-cabbage,7,30,7,2,17
+millet,is-m,8,29,8.275862069,2,17
+panda,like-Bear,15,29,15.51724138,2,23
+duck,like-goose,9,29,9.310344828,2,17
+onion,like-Garlic,8,30,8,2,17
+Coconut,is-Tropical,9,30,9,2,18
+pheasant,has-Cockcomb,7,29,7.24137931,2,16
+grapefruit,like-Pillball,7,30,7,2,17
+Jujube,has-Nuclear,8,30,8,2,27
+grasshopper,like-Mantis,9,30,9,2,17
+spider,can-spit,9,30,9,2,17
+nail,need-Trim,16,30,16,2,17
+nail,can-grow,8,30,8,2,17
+clock,has-secondhand,9,29,9.310344828,2,22
+moth,like-carpenterworm,6,28,6.428571429,2,19
+Bus,has-Driver,6,29,6.206896552,1,28
+silver birch,has-bark,7,30,7,1,19
+Refrigerator,can-freeze,18,31,17.41935484,1,18
+Refrigerator,can-Save Food,9,31,8.709677419,1,18
+Persian cat,is-Cat,10,29,10.34482759,1,18
+Persian cat,can-strip,8,29,8.275862069,1,18
+Glass,is-silica,7,30,7,1,19
+Dionaea muscipula,can-Catch Flies,16,30,16,1,16
+Daisy,is-Compositae,14,29,14.48275862,1,16
+Scallion,like-leek,7,30,7,1,17
+Timber wolf,is-Wolf,12,30,12,1,24
+Timber wolf,need-Sheep,8,30,8,1,24
+garlic,has-garlic clove,6,30,6,1,16
+garlic,has-garlic peel,6,30,6,1,16
+knife,has-Knife Back,6,31,5.806451613,1,25
+Refrigerator,can-Store Food,6,30,6,1,18
+nail,need-Hammer,11,29,11.37931034,1,17
+Watermelon,like-pumpkin,8,31,7.741935484,1,36
+Watermelon,has-ladle,6,31,5.806451613,1,36
+Touring car,has-bed,12,30,12,1,18
+Touring car,can-live,6,30,6,1,18
+African elephant,is-Elephant,13,31,12.58064516,1,19
+African elephant,has-big ears,10,31,9.677419355,1,19
+African elephant,is-African,9,31,8.709677419,1,19
+dove,can-Letter,9,30,9,1,16
+Cock,can-Beep,18,30,18,1,20
+Cock,is-Male,9,30,9,1,20
+Cock,like-hen,7,30,7,1,20
+Bus,like-a bus,6,30,6,1,28
+Dog,can-Watchdog,6,29,6.206896552,1,22
+Siberian Husky,is-dumb,6,31,5.806451613,1,19
+Otarriinae,like-Seal,10,30,10,1,16
+Seaweed,is-Lavender,13,29,13.44827586,1,29
+Jellyfish,is-Jellyfish,15,31,14.51612903,1,29
+Lotus,has-Lotus leaves,9,30,9,1,37
+black swan,is-Swan,7,30,7,1,17
+black swan,has-Long Neck,6,30,6,1,17
+Monkey,like-Ape,7,29,7.24137931,1,29
+fox,is-sly,17,30,17,1,17
+fox,has-Big Tail,7,30,7,1,17
+Cucurbit,is-Cucumber,14,30,14,1,21
+Cauliflower,like-broccoli,6,30,6,1,17
+Raccoons,is-Bear,13,30,13,1,20
+Raccoons,like-Panda,9,30,9,1,20
+egg,has-Eggshell,16,31,15.48387097,1,17
+egg,like-duck eggs,12,31,11.61290323,1,17
+egg,is-egg,9,31,8.709677419,1,17
+egg,need-hen,6,31,5.806451613,1,17
+Crucian carp,is-Freshwater,6,30,6,1,17
+Crucian carp,like-grass carp,6,30,6,1,17
+Rat,is-Mouse,20,30,20,1,21
+Honeysuckle,can-Detox,6,30,6,1,20
+Honeysuckle,can-Clear Heat,6,30,6,1,20
+Chrysanthemum,like-Sunflower,11,31,10.64516129,1,19
+Koala,is-Australian,16,30,16,1,18
+Cushion,can-depend on,13,31,12.58064516,1,17
+Cushion,like-pillow,12,31,11.61290323,1,17
+Cushion,can-depend,7,31,6.774193548,1,17
+Guppy,like-Peacock,12,28,12.85714286,1,17
+Sausage,has-intestinal coat,6,30,6,1,18
+wolf,is-gregarious,11,29,11.37931034,1,22
+carp,like-Carassius auratus,7,30,7,1,32
+carp,like-Goldfish,6,30,6,1,32
+litchi,like-Longan,11,31,10.64516129,1,17
+Lotus,is-Lotus,9,30,9,1,37
+Lotus,has-lotus seeds,6,30,6,1,37
+hound,can-train,6,30,6,1,21
+Totoro,is-Animation,11,29,11.37931034,1,16
+Totoro,is-Role,6,29,6.206896552,1,16
+mule,like-donkey,24,30,24,1,16
+mule,is-Hybrid,7,30,7,1,16
+Snail,is-TEDA SCREW,11,30,11,1,20
+carriage,need-person,8,30,8,1,17
+carriage,can-pull stuffs,6,30,6,1,17
+Leech,is-Hirudo,7,29,7.24137931,1,27
+Leech,is-Link Class,6,29,6.206896552,1,27
+Python,is-terrible,8,47,5.106382979,1,30
+Python,need-Away,6,47,3.829787234,1,30
+Yak,like-Cattle,6,30,6,1,18
+Elk,is-Deer,13,30,13,1,19
+Elk,like-Sika Deer,11,30,11,1,19
+honey peach,like-ass,6,30,6,1,28
+The sperm whale,is-Whale,17,30,17,1,19
+Hen,like-rooster,12,30,12,1,18
+Ewes,can-Raw Sheep,8,30,8,1,21
+Ewes,is-female,8,30,8,1,21
+lemon,need-Slice,6,30,6,1,16
+cattle,can-plow,6,31,5.806451613,1,31
+Bacon,like-Ham Sausage,7,31,6.774193548,1,18
+Belt,like-Belt,6,30,6,1,22
+Grape,has-Grape Skin,6,31,5.806451613,1,20
+Squab,is-Pigeon,13,30,13,1,16
+Mulberry,like-Blueberry,8,30,8,1,17
+Hawthorn,can-appetizer,8,31,7.741935484,1,17
+rat,has-hamster,6,30,6,1,21
+mouse,has-wired,8,30,8,1,25
+mouse,can-operate the computer,6,30,6,1,25
+Honey peach,is-Juicy,6,30,6,1,28
+Leech,is-Locusts,10,28,10.71428571,1,27
+Carriage,has-four wheels,9,30,9,1,17
+Carriage,is-carriage,7,30,7,1,17
+pot,has-many shapes,6,29,6.206896552,1,16
+Vulture,like-Eagle,7,28,7.5,1,16
+Rabbit,need-Carrot,6,30,6,1,35
+Broccoli,like-cauliflower,7,30,7,1,16
+lizard,like-chameleon,10,50,6,1,30
+lizard,like-Crocodile,10,50,6,1,30
+cricket,is-Scorpion,6,59,3.050847458,1,24
+coriander,like-celery,6,30,6,1,17
+sausage,is-Ham Sausage,8,31,7.741935484,1,18
+Sunflower,has-Sunflower Seed,7,31,6.774193548,1,30
+A variety of Chinese cabbage,is-Green Vegetable,6,30,6,1,17
+millet,can-coCan porridge,6,29,6.206896552,1,17
+chimpanzee,has-Hand,6,30,6,1,18
+panda,is-National Treasure,17,29,17.5862069,1,23
+panda,has-black circles,8,29,8.275862069,1,23
+panda,can-be viewed,7,29,7.24137931,1,23
+panda,like-Selenarctos thebetanus,7,29,7.24137931,1,23
+panda,need-sleep,7,29,7.24137931,1,23
+duck,like-Swan,7,29,7.24137931,1,17
+duck,has-webbed feet,6,29,6.206896552,1,17
+mole,is-rodents,10,30,10,1,16
+swallow,like-scissors,9,31,8.709677419,1,17
+Alpaca,like-Camel,10,30,10,1,21
+Coconut,has-coconut milk,11,30,11,1,18
+hare,is-Rabbit,6,30,6,1,21
+Cherry,is-Cherry,6,30,6,1,17
+Cherry,need-Fresh,6,30,6,1,17
+Lettuce,like-lettuce,6,30,6,1,33
+fish,like-Submarine,6,30,6,1,16
+spider,has-eight legs,6,30,6,1,17
+nail,can-nail polish,6,30,6,1,17
+nail,has-Keratin,6,30,6,1,17
